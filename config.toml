@@ -1,12 +1,12 @@
 baseurl = "https://c-tan.com"
 title = "Cheng Tan's Website"
-copyright = "&copy; 2016 Cheng Tan"
+copyright = "&copy; 2017 Cheng Tan"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "ctan"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
