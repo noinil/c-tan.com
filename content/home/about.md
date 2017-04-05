@@ -22,7 +22,7 @@ weight = 1
 [[education.courses]]
   course = "PhD in Physics"
   institution = "Nanjing University"
-  year = 2012
+  year = 2014
 
 [[education.courses]]
   course = "BSc in Physics"

@@ -11,21 +11,21 @@ publication = "In *Journal of the American Chemical Society*."
 publication_short = "In *JACS*"
 selected = true
 title = "Dynamic Coupling among Protein Binding, Sliding, and DNA Bending Revealed by Molecular Dynamics"
-url_code = "#"
-url_dataset = "#"
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_project = "project/deep-learning/"
-url_slides = "#"
-url_video = "#"
+# url_code = "#"
+# url_dataset = "#"
+# url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+# url_project = "project/deep-learning/"
+# url_slides = "#"
+# url_video = "#"
 
-[[url_custom]]
-name = "Custom Link"
-url = "http://www.example.org"
+# [[url_custom]]
+# name = "Custom Link"
+# url = "http://www.example.org"
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+# [header]
+# image = "headers/bubbles-wide.jpg"
+# caption = "My caption :smile:"
 
 +++
 
