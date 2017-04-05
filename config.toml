@@ -20,16 +20,15 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Cheng Tan"
-  role = "Professor of Artificial Intelligence"
-  organization = "Stanford University"
+  role = "Postdoc of Computational Biophysics"
+  organization = "Kyoto University"
   organization_url = ""
   avatar = "portrait.jpg"
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  email = "noinil@gmail.com"
+  address = "Building 1 Room 111, Graduate School of Science, Kyoto University, Kyoto, 606-8502, Japan"
+  office_hours = "Workday 10:00 to 20:00"
+  phone = "81-75-753-4220"
+  telegram = "@C_Tan"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
