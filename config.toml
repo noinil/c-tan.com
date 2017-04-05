@@ -1,6 +1,6 @@
 baseurl = "https://c-tan.com"
-title = "Academic"
-copyright = "&copy; 2016 Your Name"
+title = "Cheng Tan's Website"
+copyright = "&copy; 2016 Cheng Tan"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
