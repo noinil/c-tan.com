@@ -34,7 +34,7 @@ weight = 1
 # Biography
 
 Cheng Tan is currently a postdoc in the Department of Biophysics at Kyoto
-University.  He has started his postdoctoral research in Prof. S. Takada's
+University.  He has started his postdoctoral research in Prof. Shoji Takada's
 laboratory since 2014.  His research interests include functional mechanisms of
 DNA-binding proteins, multi-scale organization of genome, and modeling of
 biomolecules in molecular dynamics simulations.
