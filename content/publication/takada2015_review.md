@@ -7,7 +7,7 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "*Acc. Chem. Res.*, **2015**, *48* (12), 3026–3035"
-publication_short = "*Acc. Chem. Res.*, **2015**, *48* (12), 3026–3035"
+publication_short = "*Acc. Chem. Res.*, **2015**, *48* (12), 3026–3035."
 selected = false
 title = "Modeling Structural Dynamics of Biomolecular Complexes by Coarse-Grained Molecular Simulations"
 url_code = ""
@@ -23,4 +23,3 @@ url_video = ""
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

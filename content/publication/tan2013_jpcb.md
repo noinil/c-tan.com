@@ -8,7 +8,7 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "*J. Phys. Chem. B*, **2013**, *117* (50), 15917–15925"
-publication_short = "*J. Phys. Chem. B*, **2013**, *117* (50), 15917–15925"
+publication_short = "*J. Phys. Chem. B*, **2013**, *117* (50), 15917–15925."
 selected = false
 title = "Localized Frustration and Binding-Induced Conformational Change in Recognition of 5S RNA by TFIIIA Zinc Finger"
 url_code = ""
@@ -23,5 +23,3 @@ name = "Full Text"
 url = "http://pubs.acs.org/doi/abs/10.1021/jp4052165"
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

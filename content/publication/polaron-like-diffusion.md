@@ -8,7 +8,7 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "*J. Am. Chem. Soc.*, **2016**, *138* (27), 8512–8522"
-publication_short = "*J. Am. Chem. Soc.*, **2016**, *138* (27), 8512–8522"
+publication_short = "*J. Am. Chem. Soc.*, **2016**, *138* (27), 8512–8522."
 selected = true
 title = "Dynamic Coupling among Protein Binding, Sliding, and DNA Bending Revealed by Molecular Dynamics"
 
@@ -29,6 +29,4 @@ url_video = ""
 # caption = "My caption :smile:"
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
 
