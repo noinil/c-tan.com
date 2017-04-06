@@ -10,6 +10,12 @@ publication = "*J. Theor. Comput. Chem.*, **2013**, *12* (8), 1341015."
 publication_short = "*J. Theor. Comput. Chem.*, **2013**, *12* (8), 1341015."
 selected = false
 title = "Specific Binding of a Short miRNA Sequence by Zinc Knuckles of Lin28: A Molecular Dynamics Simulation Study"
+pub_journal = "Journal of Theoretical and Computational Chemistry"
+pub_year = "2013"
+pub_volume = "12"
+pub_issue = "8"
+pub_page = "1341015"
+
 url_code = ""
 url_dataset = ""
 url_pdf = ""

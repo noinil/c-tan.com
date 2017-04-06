@@ -11,6 +11,11 @@ publication = "*J. Am. Chem. Soc.*, **2016**, *138* (27), 8512–8522"
 publication_short = "*J. Am. Chem. Soc.*, **2016**, *138* (27), 8512–8522."
 selected = true
 title = "Dynamic Coupling among Protein Binding, Sliding, and DNA Bending Revealed by Molecular Dynamics"
+pub_journal = "Journal of the American Chemical Society"
+pub_year = "2016"
+pub_volume = "138"
+pub_issue = "27"
+pub_page = "8512-8522"
 
 url_code = ""
 url_dataset = ""

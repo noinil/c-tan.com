@@ -10,6 +10,11 @@ publication = "*PLoS Comput. Biol.*, **2014**, *10* (4), e1003562"
 publication_short = "*PLoS Comput. Biol.*, **2014**, *10* (4), e1003562."
 selected = false
 title = "Atomistic Picture for the Folding Pathway of a Hybrid-1 Type Human Telomeric DNA G-quadruplex"
+pub_journal = "PLoS Computational Biology"
+pub_year = "2014"
+pub_volume = "10"
+pub_issue = "4"
+pub_page = "e1003562"
 
 url_code = ""
 url_dataset = ""

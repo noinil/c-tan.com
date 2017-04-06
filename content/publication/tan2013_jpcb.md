@@ -11,6 +11,12 @@ publication = "*J. Phys. Chem. B*, **2013**, *117* (50), 15917–15925"
 publication_short = "*J. Phys. Chem. B*, **2013**, *117* (50), 15917–15925."
 selected = false
 title = "Localized Frustration and Binding-Induced Conformational Change in Recognition of 5S RNA by TFIIIA Zinc Finger"
+pub_journal = "The Journal of Physical Chemistry B"
+pub_year = "2013"
+pub_volume = "117"
+pub_issue = "50"
+pub_page = "15917-15925"
+
 url_code = ""
 url_dataset = ""
 url_pdf = ""

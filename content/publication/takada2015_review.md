@@ -10,6 +10,12 @@ publication = "*Acc. Chem. Res.*, **2015**, *48* (12), 3026–3035"
 publication_short = "*Acc. Chem. Res.*, **2015**, *48* (12), 3026–3035."
 selected = false
 title = "Modeling Structural Dynamics of Biomolecular Complexes by Coarse-Grained Molecular Simulations"
+pub_journal = "Accounts of Chemical Research"
+pub_year = "2015"
+pub_volume = "48"
+pub_issue = "12"
+pub_page = "3026-3035"
+
 url_code = ""
 url_dataset = ""
 url_pdf = ""
