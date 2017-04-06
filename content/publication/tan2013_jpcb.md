@@ -36,9 +36,9 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
-[[url_custom]]
-name = "*DOI*: 10.1021/jp4052165"
-url = "http://pubs.acs.org/doi/abs/10.1021/jp4052165"
+<!-- [[url_custom]] -->
+<!-- name = "*DOI*: 10.1021/jp4052165" -->
+<!-- url = "http://pubs.acs.org/doi/abs/10.1021/jp4052165" -->
 
 +++
 
