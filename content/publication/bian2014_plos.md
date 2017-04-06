@@ -19,7 +19,7 @@ url_slides = ""
 url_video = ""
 
 [[url_custom]]
-name = "*DOI*: 10.1371/journal.pcbi.1003562"
+name = "Full Text"
 url = "http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003562"
 
 +++

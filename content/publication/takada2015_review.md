@@ -18,7 +18,7 @@ url_slides = ""
 url_video = ""
 
 [[url_custom]]
-    name = "*DOI*: 10.1021/acs.accounts.5b00338"
+    name = "Full Text"
     url = "http://pubs.acs.org/doi/10.1021/acs.accounts.5b00338"
 
 +++

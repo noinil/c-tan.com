@@ -20,7 +20,7 @@ url_slides = ""
 url_video = ""
 
 [[url_custom]]
-    name = "*DOI*: 10.1021/jacs.6b03729"
+    name = "Full Text"
     url = "http://pubs.acs.org/doi/abs/10.1021/jacs.6b03729"
 
 # Optional featured image (relative to `static/img/` folder).
