@@ -161,7 +161,7 @@ defaultContentLanguageInSubdir = false
   url = "#publications_selected"
   weight = 2
 [[menu.main]]
-  name = "Blog"
+  name = "Posts"
   url = "#posts"
   weight = 3
 [[menu.main]]
@@ -186,7 +186,7 @@ defaultContentLanguageInSubdir = false
   url = "#posts"
   weight = 3
 [[languages.zh.menu.main]]
-  name = "项目"
+  name = "开源项目"
   url = "#projects"
   weight = 4
 [[languages.zh.menu.main]]
@@ -213,7 +213,9 @@ defaultContentLanguageInSubdir = false
 [languages.zh]
   weight = 3
   languageName = "中文"
-  title = "谭丞的网站"
+  title = "谭丞的个人网站"
   name = "谭丞"
   role = "计算生物物理学博士后"
   organization = "京都大学"
+  address = "京都市左京区北白川追分町 京都大学 理学部1号館111号室"
+  office_hours = "工作日 10:00 至 20:00"

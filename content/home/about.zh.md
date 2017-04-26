@@ -31,11 +31,9 @@ weight = 1
  
 +++
 
-# 简历
+# 个人简介
 
-Cheng Tan is currently a postdoc in the Department of Biophysics at Kyoto
-University.  He has started his postdoctoral research in Prof. Shoji Takada's
-laboratory since 2014.  His current research interests include functional
-mechanisms of DNA-binding proteins, multi-scale organization of genome, and
-modeling of biomolecules in molecular dynamics simulations.
+谭丞自 2014 年开始在京都大学理学部生物物理系从事博士后研究工作。
+目前他的科研重心集中在 DNA 结合蛋白的功能性运动， 基因的多尺度组装，
+以及在分子动力学模拟中构建合适的生物分子模型等方面。
 
