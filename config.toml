@@ -156,26 +156,45 @@ defaultContentLanguageInSubdir = false
   name = "Home"
   url = "#about"
   weight = 1
-
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
   weight = 2
-
 [[menu.main]]
-  name = "Posts"
+  name = "Blog"
   url = "#posts"
   weight = 3
-
 [[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 4
-
 [[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 6
+
+[[languages.zh.menu.main]]
+  name = "主页"
+  url = "#about"
+  weight = 1
+[[languages.zh.menu.main]]
+  name = "学术文章"
+  url = "#publications_selected"
+  weight = 2
+[[languages.zh.menu.main]]
+  name = "博客"
+  url = "#posts"
+  weight = 3
+[[languages.zh.menu.main]]
+  name = "项目"
+  url = "#projects"
+  weight = 4
+[[languages.zh.menu.main]]
+  name = "联系方式"
+  url = "#contact"
+  weight = 6
+
+
 
 # Taxonomies.
 [taxonomies]
@@ -189,3 +208,12 @@ defaultContentLanguageInSubdir = false
 # Configure the English version of the website.
 [languages.en]
   languageCode = "en-us"
+  weight = 0
+
+[languages.zh]
+  weight = 3
+  languageName = "中文"
+  title = "谭丞的网站"
+  name = "谭丞"
+  role = "计算生物物理学博士后"
+  organization = "京都大学"
