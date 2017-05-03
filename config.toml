@@ -75,8 +75,8 @@ defaultContentLanguageInSubdir = false
   #   For more info on the highlighting options, see:
   #   https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = ["python", "cpp", "fortran", "go", "ruby"]
-  highlight_style = "solarized-dark"
+  highlight_languages = ["python", "cpp", "fortran", "go", "ruby", "bash"]
+  highlight_style = "solarized-light"
   # highlight_version = "9.9.0"
 
   # Enable native social sharing buttons?
@@ -177,10 +177,6 @@ defaultContentLanguageInSubdir = false
   name = "主页"
   url = "#about"
   weight = 1
-[[languages.zh.menu.main]]
-  name = "学术文章"
-  url = "#publications_selected"
-  weight = 2
 [[languages.zh.menu.main]]
   name = "博客"
   url = "#posts"
