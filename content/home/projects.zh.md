@@ -5,7 +5,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Projects"
+title = "开源项目"
 subtitle = ""
 widget = "projects"
 
@@ -22,19 +22,19 @@ view = 1
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 [[filter]]
-  name = "All"
+  name = "所有项目"
   tag = "*"
   
 [[filter]]
-  name = "Biophysics"
+  name = "科研"
   tag = ".biophysics"
 
 [[filter]]
-  name = "Emacs"
+  name = "编辑器"
   tag = ".emacs"
 
 [[filter]]
-  name = "Other"
+  name = "其他"
   tag = ".python"
 
 +++

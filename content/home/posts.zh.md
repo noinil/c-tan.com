@@ -5,7 +5,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "最新博客文章"
+title = "最新中文文章"
 subtitle = ""
 widget = "posts"
 
