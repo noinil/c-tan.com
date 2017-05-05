@@ -6,6 +6,7 @@ categories = ["technique"]
 tags = ["python2"]
 
 slug = "wechat-bot"
+isCJKLanguage = true
 summary = "本文简单介绍了一下如何通过 wxBot 这个包来搭建一个小机器人。  通过方便的 python2 接口， 大家可以加入各种奇怪的新功能。  本文展示了一些无聊的应用。"
 +++ 
 

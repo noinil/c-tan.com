@@ -7,6 +7,7 @@ tags = ["git", "svn"]
 
 slug = "git-svn-CafeMol"
 summary = "CafeMol 是本组开发并使用的分子动力学软件， 目前基于 svn 进行代码管理。  对于年轻人来说， git 可能是比较熟悉的选择。  本文展示了使用 git 来参与开发的可能性。"
+isCJKLanguage = true
 +++
 
 `git-svn` - Bidirectional operation between a Subversion repository and Git.[^1]

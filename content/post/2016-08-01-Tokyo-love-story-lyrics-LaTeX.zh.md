@@ -8,6 +8,7 @@ tags = ["LaTeX", "Japanese"]
 slug = "Tokyo-love-story-lyrics-LuaTeX"
 summary = "这是我首次尝试用 LuaTex排版双栏日语歌曲及中文翻译."
 highlight_languages = ["tex"]
+isCJKLanguage = true
 +++ 
 
 最近明明在跟日语老师学习歌曲， 我于是领到一个排版打印的任务。  事实上由于高田さん
