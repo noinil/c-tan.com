@@ -1,5 +1,5 @@
 baseurl = "http://c-tan.com/"
-title = "Cheng Tan's Website (unfinished)"
+title = "Cheng Tan's Website"
 copyright = "&copy; 2017 Cheng Tan"
 theme = "academic"
 enableEmoji = true
