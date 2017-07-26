@@ -1,12 +1,12 @@
 +++ 
-title = "LaTeX 数学速查表 (cheatsheet)"
-description = "使用 LaTeX 制作的 LaTeX 数学 cheatsheet"
+title = "LaTeX 数学速查表 (cheat sheet)"
+description = "使用 LaTeX 制作的 LaTeX 数学 cheat sheet"
 date = "2017-07-25T12:20:00"
 categories = ["technique"]
 tags = ["LaTeX"]
 
-slug = "latex-math-cheatsheet"
-summary = "一个用 LaTeX 排版的 LaTeX 数学 cheatsheet, 内附 pdf 版本， 可下载打印。"
+slug = "latex-math-cheat sheet"
+summary = "一个用 LaTeX 排版的 LaTeX 数学 cheat sheet, 内附 pdf 版本， 可下载打印。"
 +++ 
 
 最近开完一个小会， 决定稍稍放松一下。  于是又手贱玩起 $\LaTeX$ 来消遣时光， 顺便完成以前的一些小心愿。  
@@ -17,7 +17,7 @@ summary = "一个用 LaTeX 排版的 LaTeX 数学 cheatsheet, 内附 pdf 版本�
 
 Happy $\TeX$ing.
 
-![LaTeX mathematics cheatsheet.](/img/posts/screenshots/scrot_latex_math_cheatsheet_2017-07-25.png)
+![LaTeX mathematics cheat sheet.](/img/posts/screenshots/scrot_latex_math_cheatsheet_2017-07-25.png)
 
 版面大小其实被设置为 A3， 不过想打印在 A4 纸上想必也不会太失真。  请下载试用：
 [LaTeX 数学速查 PDF 版本](/download/latex_math_cheatsheet_2017-07-25.pdf)。
