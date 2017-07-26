@@ -11,7 +11,7 @@ presentation_type = "Oral"
 selected = false
 math = true
 
-url_pdf = ""
+url_pdf = "download/talk_HU_2015_Kanazawa.pdf"
 url_slides = ""
 url_video = ""
 
@@ -22,3 +22,5 @@ url_video = ""
 
 +++
 
+This work has been published on *J. Am. Chem. Soc.* in 2016, please refer
+to [this page]({{< ref "publication/tan2016_jacs.md" >}}) for the final version.
