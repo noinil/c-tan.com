@@ -48,10 +48,10 @@ installed on my VPS.
 
 When I was young, I bought thousands of classical music CDs and listened to 10%
 of them. I bought all the cello concerto scores I was able to find, pretending
-to read 5% of them, although I always enjoyed being an amateur.
+to read 5% of them. Although I always enjoyed being an amateur.
 
 In order to participate in a sport without any physical contact, I started
 practicing the Rubik's cube in 2009, and I was lucky enough to break a national
-record in a game in 2010.  I stopped practicing since then.
+record in a game in 2010.  So I stopped practicing since then.
 
 Anyway, welcome to my personal website!
