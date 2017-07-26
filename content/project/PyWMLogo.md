@@ -5,7 +5,7 @@ highlight = true
 image_preview = "projects/PyWMLogo_preview.png"
 math = true
 summary = "A simple tool to plot information content LOGO for PWM.  Image format is svg."
-tags = ["bioinformatics", "biophysics", "python", "svg"]
+tags = ["biophysics", "bioinformatics", "python", "svg"]
 title = "PyWMLogo"
 
 [header]
