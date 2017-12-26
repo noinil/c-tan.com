@@ -24,7 +24,7 @@ defaultContentLanguageInSubdir = false
   organization = "Kyoto University"
   organization_url = "http://www.kyoto-u.ac.jp/"
   avatar = "portrait.jpg"
-  email = "chengtan@c-tan.com"
+  email = "ctan@c-tan.com"
   address = "Building 1 Room 111, Graduate School of Science, Kyoto University, Kyoto, 606-8502, Japan"
   office_hours = "Workday 10:00 to 20:00"
   phone = "81-75-753-4225"
@@ -124,7 +124,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:noinil@gmail.com"
+    link = "mailto:ctan@c-tan.com"
 
   [[params.social]]
     icon = "twitter"
