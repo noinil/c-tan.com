@@ -2,7 +2,7 @@
 title = "LaTeX math cheat sheet"
 description = "A simple cheat sheet for math in LaTeX produced with LaTeX."
 date = "2017-07-25T12:10:00"
-lastmod - "2018-01-13T21:43:00"
+lastmod = "2018-01-13T21:43:00"
 categories = ["technique"]
 tags = ["LaTeX"]
 
