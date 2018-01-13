@@ -2,6 +2,7 @@
 title = "LaTeX 数学速查表 (cheat sheet)"
 description = "使用 LaTeX 制作的 LaTeX 数学 cheat sheet"
 date = "2017-07-25T12:20:00"
+lastmod = "2018-01-13T21:40:00"
 categories = ["technique"]
 tags = ["LaTeX"]
 
@@ -17,7 +18,7 @@ summary = "一个用 LaTeX 排版的 LaTeX 数学 cheat sheet, 内附 pdf 版本
 
 Happy $\TeX$ing.
 
-![LaTeX mathematics cheat sheet.](/img/posts/screenshots/scrot_latex_math_cheatsheet_2017-07-25.png)
+![LaTeX mathematics cheat sheet.](/img/posts/screenshots/scrot_latex_math_cheatsheet_2018-01-13.png)
 
 版面大小其实被设置为 A3， 不过想打印在 A4 纸上想必也不会太失真。  请下载试用：
-[LaTeX 数学速查 PDF 版本](/download/latex_math_cheatsheet_2017-07-25.pdf)。
+[LaTeX 数学速查 PDF 版本](/download/latex_math_cheatsheet_2018-01-13.pdf)。
