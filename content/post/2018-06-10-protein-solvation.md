@@ -19,7 +19,7 @@ If you are angry now, please don't kill me.
 
 Happy CG modeling.
 
-![CG simulations of protein solvation.](/img/posts/CG/protiens_into_water.png)
+![CG simulations of protein solvation.](/img/posts/CG/proteins_into_water.png)
 
 
 

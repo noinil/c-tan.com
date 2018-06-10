@@ -23,7 +23,7 @@ If you are angry now, please don't kill me.
 相信你看到我们的结果， 一定想扇我一耳光 (逃......)。
 
 
-![CG simulations of protein solvation.](/img/posts/CG/protiens_into_water.png)
+![CG simulations of protein solvation.](/img/posts/CG/proteins_into_water.png)
 
 
 
