@@ -9,13 +9,7 @@ slug = "protein-solvation-explicit-water"
 summary = "Simulation of coarse-grained protein in explicit water."
 +++ 
 
-Calculation of the solvation energy of biomolecules have been a long-standing
-problem for computational biologists.  A bunch of methodologies have been
-developed.  However, a satisfying solution is still far away from us.  Here I
-show the first simulation study of this problem, with proteins in the
-coarse-grained model, whilst with explicit water model.  Our results revealed
-striking phenomenons such as bubble formation around the surface of proteins.
-If you are angry now, please don't kill me.
+Calculation of the solvation energy of biomolecules has been a long-standing problem for computational biologists. A bunch of methodologies has been developed. However, a satisfying solution is still far away from us. Here I show the first simulation study of this problem, with proteins in the coarse-grained model, while with explicit water model. Our results revealed striking phenomenon such as bubble formation around the surface of proteins. If you are angry now, please don’t kill me.
 
 Happy CG modeling.
 
