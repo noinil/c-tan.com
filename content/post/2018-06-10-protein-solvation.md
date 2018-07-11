@@ -1,5 +1,5 @@
 +++ 
-title = "Coarse-grained simulation of protein solvation in explicit water"
+title = "Coarse-grained simulation of protein solvation in explicit water (fake)"
 description = "Protein solvation studied with computer simulations.  Details at the molecular level are revealed." 
 date = "2018-06-10T10:10:00"
 categories = ["molart"]
