@@ -22,3 +22,6 @@ url_video = ""
 
 +++
 
+
+![Kumamoto 2017 BSJ meeting talk](/img/talk/scrot_BSJ_2017_talk.jpg)
+

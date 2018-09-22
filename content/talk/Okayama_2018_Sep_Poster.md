@@ -22,5 +22,5 @@ url_video = ""
 
 +++
 
-![Okayama 2018 BSJ meeting poster](/img/talk/scrot_BSJ_2018_poster.png)
+![Okayama 2018 BSJ meeting poster](/img/talk/scrot_BSJ_2018_poster.jpg)
 
