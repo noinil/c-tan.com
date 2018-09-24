@@ -6,7 +6,7 @@ abstract_short = ""
 event = "The 55th Annual Meeting of the Biophysical Society of Japan"
 event_url = ""
 location = "Kumamoto, Japan"
-presentation_type = "Oral"
+presentation_type = "Talk"
 
 selected = false
 math = true

@@ -6,7 +6,7 @@ abstract_short = ""
 event = "APS March Meeting 2017"
 event_url = ""
 location = "New Orleans, Louisiana, USA"
-presentation_type = "Oral"
+presentation_type = "Talk"
 
 selected = false
 math = true

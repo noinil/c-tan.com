@@ -6,7 +6,7 @@ abstract_short = ""
 event = "The 5th International Symposium of the Mathematics on Chromatin Live Dynamics"
 event_url = "http://www.mls.sci.hiroshima-u.ac.jp/chrom/conference/5is/"
 location = "Hiroshima, Japan"
-presentation_type = "Oral"
+presentation_type = "Talk"
 
 selected = false
 math = true

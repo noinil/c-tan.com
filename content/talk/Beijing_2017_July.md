@@ -6,7 +6,7 @@ abstract_short = ""
 event = "CSRC Workshop on DNA Chromosome Structure and Dynamics"
 event_url = "http://www.csrc.ac.cn/en/event/workshop/2017-07-10/73.html"
 location = "Beijing, China"
-presentation_type = "Oral"
+presentation_type = "Talk"
 
 selected = false
 math = true

@@ -6,7 +6,7 @@ abstract_short = ""
 event = "The 56th Annual Meeting of the Biophysical Society of Japan (Symposium: Mechanism of Biomolecular Dynamics and Function Revealed by Multiscale Physics)"
 event_url = "https://www2.aeplan.co.jp/bsj2018/english/index.html"
 location = "Okayama, Japan"
-presentation_type = "Oral"
+presentation_type = "Talk"
 
 selected = false
 math = true
