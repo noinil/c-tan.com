@@ -30,8 +30,8 @@ url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "DNA target search :smile:"
+image = "headers/PWMcos-header.jpg"
+caption = "PWMcos"
 
 +++
 

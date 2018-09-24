@@ -7,6 +7,10 @@ tags = ["CG"]
 
 slug = "protein-solvation-explicit-water"
 summary = "Simulation of coarse-grained protein in explicit water."
+
+[header]
+image = "posts/CG/proteins_into_water_header.png"
+caption = "Protein diving into water."
 +++ 
 
 
