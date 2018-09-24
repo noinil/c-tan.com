@@ -30,7 +30,7 @@ url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/PWMcos-header.jpg"
+image = "headers/PWMcos-header.png"
 caption = "PWMcos"
 
 +++
