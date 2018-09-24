@@ -29,9 +29,9 @@ url_video = ""
     url = "https://pubs.acs.org/doi/10.1021/acs.jctc.8b00299"
 
 # Optional featured image (relative to `static/img/` folder).
-# [header]
-# image = "headers/bubbles-wide.jpg"
-# caption = "My caption :smile:"
+[header]
+image = "headers/bubbles-wide.jpg"
+caption = "DNA target search :smile:"
 
 +++
 
