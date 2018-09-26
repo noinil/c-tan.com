@@ -7,6 +7,10 @@ tags = ["CG"]
 
 slug = "protein-solvation-explicit-water"
 summary = "粗粒化蛋白质模型 + 显式水模型 研究蛋白质的溶解过程。"
+
+[header]
+image = "posts/CG/proteins_into_water_header.png"
+caption = "Protein diving into water."
 +++ 
 
 生物分子的溶解能的计算是一个困扰了计算生物学家好几千年的问题。  
