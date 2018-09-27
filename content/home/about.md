@@ -33,22 +33,17 @@ weight = 1
 
 # Biography
 
-I am currently a postdoc in the Department of Biophysics at Kyoto University.  I
-have started my postdoctoral research in
-[Prof. Shoji Takada's laboratory](http://theory.biophys.kyoto-u.ac.jp/index_e.php) since 2014.
-My current research interests include functional mechanisms of DNA-binding
-proteins, the multi-scale organization of the genome, and modeling of
+I am currently a postdoc in the Department of Biophysics at Kyoto University.
+I have started my postdoctoral research in [Prof. Shoji Takada's
+laboratory](http://theory.biophys.kyoto-u.ac.jp/index_e.php) since 2014.  My
+current research interests include functional mechanisms of DNA-protein
+binding, the multi-scale organization of the genome, and modeling of
 biomolecules in molecular dynamics simulations.
 
-I used to be a free software fanatic, with up to 10+ years of experience with
-various Linux distributions.  For a long time, I was proud of having a signature
-of RMS on my doctoral dissertation. But now I prefer to use the paid software,
-to save my time and to focus on important things. Still, I have Arch Linux
-installed on my VPS.
-
-When I was young, I bought thousands of classical music CDs and listened to 10%
-of them. I bought all the cello concerto scores I was able to find, pretending
-to read 5% of them. Although I always enjoyed being an amateur.
+I used to be a free software fanatic (FSF, :D), with up to 10+ years of
+experience on various Linux distributions.  For a long time, I was proud of
+having a signature from RMS on my doctoral dissertation.  But now I prefer to
+use the paid softwares to save my time and to focus on really important things.
 
 In order to participate in a sport without any physical contact, I started
 practicing the Rubik's cube in 2009, and I was lucky enough to break a national
