@@ -47,6 +47,6 @@ use the paid softwares to save my time and to focus on really important things.
 
 In order to participate in a sport without any physical contact, I started
 practicing the Rubik's cube in 2009, and I was lucky enough to break a national
-record in a game in 2010.  So I stopped practicing since then.
+record in a game in 2010.  And I stopped practicing since then.
 
 Anyway, welcome to my personal website!
