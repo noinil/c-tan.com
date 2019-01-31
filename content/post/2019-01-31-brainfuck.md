@@ -1,6 +1,6 @@
 +++ 
-title = "A New Toy for Me"
-description = "I found a new toy that can break my head."
+title = "I Found Something Funny"
+description = "I found a new language that can break my head."
 date = "2019-01-31T21:31:00"
 categories = ["technique"]
 tags = ["brainfuck"]
