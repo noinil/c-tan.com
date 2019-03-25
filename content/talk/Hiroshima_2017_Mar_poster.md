@@ -20,7 +20,7 @@ url_video = ""
 # image = "headers/bubbles-wide.jpg"
 # caption = "My caption :smile:"
 
-![Hiroshima 2017 Chromatin poster](/img/talk/scrot_Hiroshima_2017_poster.png)
-
 +++
+
+![Hiroshima 2017 Chromatin poster](/img/talk/scrot_Hiroshima_2017_poster.png)
 
