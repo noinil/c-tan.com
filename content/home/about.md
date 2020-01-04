@@ -33,20 +33,19 @@ weight = 1
 
 # Biography
 
-I am currently a postdoc in the Department of Biophysics at Kyoto University.
-I have started my postdoctoral research in [Prof. Shoji Takada's
-laboratory](http://theory.biophys.kyoto-u.ac.jp/index_e.php) since 2014.  My
-current research interests include functional mechanisms of DNA-protein
-binding, the multi-scale organization of the genome, and modeling of
-biomolecules in molecular dynamics simulations.
+I am currently a postdoctoral researcher in the Computational Biophysics
+Research Team at RIKEN.  I have started my current job since May, 2019.  My
+research interests include functional mechanisms of DNA-protein binding,
+multi-scale organization of the genome, liquid-liquid phase separation in gene
+expression, and modeling of biomolecules in molecular dynamics (MD) simulations.
+Besides, I write code for MD softwares
+[GENESIS](https://www.r-ccs.riken.jp/labs/cbrt/) and
+[CafeMol](http://www.cafemol.org/index.php).
 
-I used to be a free software fanatic (FSF, :D), with up to 10+ years of
-experience on various Linux distributions.  For a long time, I was proud of
-having a signature from RMS on my doctoral dissertation.  But now I prefer to
-use the paid softwares to save my time and to focus on really important things.
+I used to be a free software fanatic (FSF), with up to 10+ years of using
+various Linux distributions.  But now I prefer to use many paid softwares, if
+available, to save my time and to focus more on truely interesting things.
 
 In order to participate in a sport without any physical contact, I started
-practicing the Rubik's cube in 2009, and I was lucky enough to break a national
-record in a game in 2010.  And I stopped practicing since then.
-
-Anyway, welcome to my personal website!
+practicing the Rubik's cube from 2009, and I broke the national record for the
+$2\times 2$ cube in a game in 2010.  Unfortunately, I stopped practicing since then.
