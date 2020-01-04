@@ -20,14 +20,14 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Cheng Tan"
-  role = "Postdoc of Computational Biophysics"
-  organization = "Kyoto University"
-  organization_url = "http://www.kyoto-u.ac.jp/"
+  role = "Ph.D. of Computational Biophysics"
+  organization = "RIKEN Center for Computational Science"
+  organization_url = "http://www2.riken.jp/TMS2012/cbp/en/index.html"
   avatar = "portrait.jpg"
   email = "ctan@c-tan.com"
-  address = "Building 1 Room 111, Graduate School of Science, Kyoto University, Kyoto, 606-8502, Japan"
+  address = "Integrated Innovation Building (IIB) N702, 6-7-1 Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo, Japan"
   office_hours = "Workday 10:00 to 20:00"
-  phone = "81-75-753-4225"
+  phone = "81-78-304-5323"
   telegram = "C_Tan"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -75,7 +75,7 @@ defaultContentLanguageInSubdir = false
   #   For more info on the highlighting options, see:
   #   https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = ["python", "cpp", "fortran", "go", "ruby", "bash"]
+  highlight_languages = ["julia", "python", "cpp", "fortran", "go", "ruby", "bash"]
   highlight_style = "solarized-light"
   # highlight_version = "9.9.0"
 
@@ -215,7 +215,7 @@ defaultContentLanguageInSubdir = false
   languageName = "中文"
   title = "句末双空格"
   name = "谭丞"
-  role = "计算生物物理学博士后"
-  organization = "京都大学"
-  address = "京都市左京区北白川追分町 京都大学 理学部1号館111号室"
+  role = "计算生物物理学博士"
+  organization = "理化学研究所"
+  address = "神戸市中央区港島南町6-7-1理化学研究所 融合連携イノベーション推進棟N702"
   office_hours = "工作日 10:00 至 20:00"
