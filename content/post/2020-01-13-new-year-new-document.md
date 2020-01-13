@@ -6,6 +6,7 @@ categories = ["technique"]
 tags = ["LaTeX"]
 
 slug = "genesis-cg-doc"
+summary = "Another $\LaTeX$ template for this years documentation."
 +++ 
 
 Happy new year!

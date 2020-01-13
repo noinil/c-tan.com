@@ -6,6 +6,7 @@ categories = ["technique"]
 tags = ["LaTeX"]
 
 slug = "genesis-cg-doc"
+summary = "开始 $\LaTeX$ 码字新任务。  撸个漂亮模板给组内的大家用。"
 +++ 
 
 进入奥运之年， 微微预感到高潮之后即将到来的大萧条。
