@@ -1,5 +1,5 @@
 +++ 
-title = "LaTeX Template for Chinese Character Education"
+title = "LaTeX Typesetting Chinese Character and PinYin Box"
 description = "I made a template for teaching my daughter Chinese characters."
 date = "2020-02-02T02:00:00"
 categories = ["technique"]
