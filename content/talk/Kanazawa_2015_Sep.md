@@ -11,7 +11,7 @@ presentation_type = "Talk"
 selected = false
 math = true
 
-url_pdf = "download/talk_HU_2015_Kanazawa.pdf"
+url_pdf = ""
 url_slides = ""
 url_video = ""
 

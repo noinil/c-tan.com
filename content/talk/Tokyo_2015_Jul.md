@@ -11,7 +11,7 @@ presentation_type = "Poster"
 selected = false
 math = true
 
-url_pdf = "download/poster_HU_2015_Tokyo.pdf"
+url_pdf = ""
 url_slides = ""
 url_video = ""
 
