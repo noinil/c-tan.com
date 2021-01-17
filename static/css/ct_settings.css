@@ -14,10 +14,10 @@ ul.pager {
     font-size: 0.8rem;
 }
 
-.pub_authors {
+.pub-list-item .pub-authors {
     color: #F9844A;
 }
 
-.pub_publication {
+.pub-list-item .pub-publication {
     color: #E56B6F;
 }
