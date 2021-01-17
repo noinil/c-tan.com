@@ -8,23 +8,23 @@
 a,
 a:visited,
 h3.article-title a:hover {
-    color: #F94144;
+    color: #0081A7;
 }
 
 a:hover {
-    color: #F3722C;
+    color: #00AFB9;
 }
 
 .navbar-default .navbar-nav li a:hover,
 .btn-primary,
 .btn-primary.btn-outline {
-    color: #F94144;
+    color: #0081A7;
 }
 
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover{
-    color: #F94144;
+    color: #0081A7;
 }
 
 /* Articles */
@@ -38,20 +38,20 @@ a:hover {
 }
 
 .article-metadata a:hover {
-    color: #F94144;
+    color: #0081A7;
 }
 
 /* Standard buttons */
 
 .btn-primary,
 .btn-primary.btn-outline {
-    border-color: #F94144;
+    border-color: #0081A7;
 }
 
 /* Hover buttons */
 
 .btn-primary.btn-outline:hover {
-    border-color: #F94144;
+    border-color: #0081A7;
 }
 
 .btn-primary:hover,
@@ -60,12 +60,12 @@ a:hover {
 .btn-primary.active,
 .btn-primary:visited,
 .btn-primary.btn-outline:active {
-    background-color: #F94144;
+    background-color: #0081A7;
 }
 
 .btn-toolbar .btn-group .btn{
     color: #EEE;
-    background-color: #F94144;
+    background-color: #0081A7;
 }
 
 .btn-toolbar .btn-group .btn:hover{

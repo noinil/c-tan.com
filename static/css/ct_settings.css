@@ -2,11 +2,11 @@
     line-height: normal;
     font-style: normal;
     font-size: 0.8rem;
-    color: #F9844A;
+    color: #99C1DE;
 }
 
 #ct_pub_simple_publication {
-    color: #E56B6F;
+    color: #335C67;
     font-size: 0.9rem;
 }
 
@@ -15,9 +15,9 @@ ul.pager {
 }
 
 .pub-list-item .pub-authors {
-    color: #F9844A;
+    color: #99C1DE;
 }
 
 .pub-list-item .pub-publication {
-    color: #E56B6F;
+    color: #335C67;
 }
