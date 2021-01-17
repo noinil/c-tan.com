@@ -70,15 +70,15 @@ a:hover {
 
 .btn-toolbar .btn-group .btn:hover{
     color: #EEE;
-    background-color: RGBA(249, 65, 68, 0.6);
+    background-color: #6B9080;
 }
 
 .btn-toolbar .btn-group .btn:focus{
     color: #FFF;
-    background-color: RGB(136, 0, 0);
+    background-color: #2C7DA0;
 }
 
 .btn-toolbar .btn-group .active:not(:focus){
     color: #FFF;
-    background-color: RGB(116, 0, 20);
+    background-color: #0F4C5C;
 }
