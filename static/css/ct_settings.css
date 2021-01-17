@@ -13,3 +13,11 @@
 ul.pager {
     font-size: 0.8rem;
 }
+
+.pub_authors {
+    color: #F9844A;
+}
+
+.pub_publication {
+    color: #E56B6F;
+}
