@@ -20,7 +20,7 @@ customJs = []
 
 mainSections = ["post"]
 
-# images = ["images/site-feature-image.png"]
+images = ["images/site-feature-image.png"]
 
 doNotLoadAnimations = false
 
