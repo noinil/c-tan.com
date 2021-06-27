@@ -1,0 +1,35 @@
+  [[main]]
+  name = "主页"
+  identifier = "home"
+  weight = 100
+  url = "/zh/"
+
+  [[main]]
+  name = "博客"
+  weight = 200
+  identifier = "posts"
+  url = "/zh/post/"
+
+  [[main]]
+  name = "论文"
+  weight = 300
+  identifier = "publication"
+  url = "/zh/publication/"
+
+  [[main]]
+  name = "报告"
+  weight = 400
+  identifier = "presentation"
+  url = "/zh/presentation/"
+
+  [[main]]
+  name = "关于"
+  weight = 500
+  identifier = "about"
+  url = "/zh/about/"
+
+  [[footer]]
+  name = "说明"
+  weight = 1
+  identifier = "imprint"
+  url = "/zh/imprint/"

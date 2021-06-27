@@ -1,0 +1,35 @@
+  [[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "Blog"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[main]]
+  name = "Publications"
+  weight = 300
+  identifier = "publication"
+  url = "/publication/"
+
+  [[main]]
+  name = "Presentations"
+  weight = 400
+  identifier = "presentation"
+  url = "/presentation/"
+
+  [[main]]
+  name = "About"
+  weight = 500
+  identifier = "about"
+  url = "/about/"
+
+  [[footer]]
+  name = "imprint"
+  weight = 1
+  identifier = "imprint"
+  url = "/imprint/"

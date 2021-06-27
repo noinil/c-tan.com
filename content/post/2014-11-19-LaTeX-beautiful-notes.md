@@ -1,12 +1,12 @@
 +++
-title = "Nice LaTeX Note Template"
+title = "A LaTeX Note Template"
 description = "A simple template for notes taken with LaTeX."
 date = "2014-11-19T17:26:00"
 categories = ["technique"]
 tags = ["LaTeX", "inkscape"]
 
 slug = "latex-note-template"
-summary = "In this post I plotted a simple picture that can be used as a background figure in LaTeX documents for nice-looking notes."
+summary = "Include a simple picture that can be used as a background figure in LaTeX documents for nice-looking notes."
 +++
 
 

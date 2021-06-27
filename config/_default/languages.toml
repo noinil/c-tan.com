@@ -1,0 +1,14 @@
+[en]
+title = "Cheng Tan"
+weight = 1
+LanguageName = "EN"
+# contentDir = "content/english"
+
+[zh]
+title = "句末双空格"
+description = """
+谭丞
+计算生物物理学博士
+"""
+weight = 2
+LanguageName = "CN"
