@@ -3,7 +3,7 @@ title = "Cheng Tan's website"
 author = "Cheng Tan"
 copyright = "2014-{{ YEAR }}"
 description = """
-Ph.D. Computational Biophysics
+Website of Cheng Tan
 """
 
 profilePicture = "images/profile.jpg"
