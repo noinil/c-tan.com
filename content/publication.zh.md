@@ -3,9 +3,9 @@ title = "最近发表的学术论文"
 author = "谭丞"
 description = "谭丞的学术论文列表。"
 date = "2021-11-03"
--+++
--
--0. Implementation of residue-level coarse-grained models in GENESIS for large-scale molecular dynamics simulations.  
++++
+
+0. Implementation of residue-level coarse-grained models in GENESIS for large-scale molecular dynamics simulations.  
 Cheng Tan, Jaewoon Jung, Chigusa Kobayashi, Diego Ugarte La Torre, Shoji Takada, and Yuji Sugita.
 _bioRxiv_ (2021). [<i class="fas fa-link"></i>](https://doi.org/10.1101/2021.10.21.465249)
 
