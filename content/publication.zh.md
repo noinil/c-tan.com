@@ -6,7 +6,7 @@ date = "2021-11-03"
 +++
 
 0. Implementation of residue-level coarse-grained models in GENESIS for large-scale molecular dynamics simulations.  
-Cheng Tan, Jaewoon Jung, Chigusa Kobayashi, Diego Ugarte La Torre, Shoji Takada, and Yuji Sugita.  
+<u>Cheng Tan</u>, Jaewoon Jung, Chigusa Kobayashi, Diego Ugarte La Torre, Shoji Takada, and Yuji Sugita.  
 _bioRxiv_ (2021). [<i class="fas fa-link"></i>](https://doi.org/10.1101/2021.10.21.465249)
 
 1. Testing mechanisms of DNA sliding by architectural DNA-binding proteins: dynamics of single wild-type and mutant protein molecules in vitro and in vivo.  
@@ -14,7 +14,7 @@ Kiyoto Kamagata, Yuji Itoh, <u>Cheng Tan</u>, Eriko Mano, Yining Wu, Sridhar Man
 _Nucleic Acids Research_ **49**, 15 (2021): 8642-8664. [<i class="fas fa-link"></i>](https://doi.org/10.1093/nar/gkab658)
 
 2. The kinetic landscape of nucleosome assembly: A coarse-grained molecular dynamics study.  
-Giovanni B. Brandani , Cheng Tan, and Shoji Takada.  
+Giovanni B. Brandani, <u>Cheng Tan</u>, and Shoji Takada.  
 _PLoS Computational Biology_ (2021). [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1009253)
 
 3. New parallel computing algorithm of molecular dynamics for extremely huge scale biological systems.  

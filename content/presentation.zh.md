@@ -5,6 +5,10 @@ description = "谭丞的近期学术报告。"
 date = "2021-06-27"
 +++
 
+- <i class="fas fa-cloud"></i> Phase behavior of transcription factors studied with molecular dynamics simulations.  
+_第 8 回 HPCI 成果報告会_, 线上  
+2021 年 10 月 29 日
+
 - <i class="fas fa-cloud"></i> A singularity-free torsion angle potential for coarse-grained molecular dynamics simulations.  
 第 58 回日本生物物理学会年会, 群马, 日本  
 2020 年 9 月 16 日
