@@ -6,7 +6,7 @@ date = "2021-06-27"
 +++
 
 - <i class="fas fa-cloud"></i> Phase behavior of transcription factors studied with molecular dynamics simulations.  
-_第 8 回 HPCI 成果報告会_, 线上  
+第 8 回 HPCI 成果報告会, 线上  
 2021 年 10 月 29 日
 
 - <i class="fas fa-cloud"></i> A singularity-free torsion angle potential for coarse-grained molecular dynamics simulations.  

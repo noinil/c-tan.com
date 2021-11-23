@@ -15,9 +15,10 @@ disqusShortname = "ctan"
 #googleAnalytics = "UA-123-45"
 
 # Syntax highlighting
-pygmentsUseClasses = true   
+pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
+
 
 [markup]
     [markup.goldmark]

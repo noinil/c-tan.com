@@ -1,4 +1,3 @@
-
 title = "Cheng Tan's website"
 author = "Cheng Tan"
 copyright = "2014-{{ YEAR }}"
@@ -6,7 +5,7 @@ description = """
 Website of Cheng Tan
 """
 
-profilePicture = "images/profile.jpg"
+profilePicture = "images/profile.png"
 favicon = "favicons/"
 
 keywords = ""
@@ -14,9 +13,9 @@ keywords = ""
 contentratio = 0.7
 
 # example ["css/custom.css"]
-customCss = ["css/cnfont.css"]
+customCss = ["css/ctan.css"]
 # example ["js/custom.js"]
-customJs = [] 
+customJs = []
 
 mainSections = ["post"]
 
@@ -29,6 +28,8 @@ doNotLoadAnimations = false
 
 # Google Site Verify
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+
+
 
 singleDateFormat = "Mon, Jan 2, 2006"
 indexDateFormat = "2/1/2006"
