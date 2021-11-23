@@ -20,12 +20,14 @@ div.nav__links > li > a.current {
 
 ul.sl-nav > * {
     font-family: 'Helvetica', 'Arial', 'PingFangSC', 'Heiti SC', 'Microsoft YaHei', 'PingFang SC', 'Helvetica', 'Hiragino Sans GB', 'Sans';
-    font-size: 100%;
 }
 
 ul.dropdown > * {
     font-family: 'Helvetica', 'Arial', 'PingFangSC', 'Heiti SC', 'Microsoft YaHei', 'PingFang SC', 'Helvetica', 'Hiragino Sans GB', 'Sans';
-    font-size: 100%;
+}
+
+.description * {
+    font-family: 'Helvetica', 'Arial', 'PingFangSC', 'Heiti SC', 'Microsoft YaHei', 'PingFang SC', 'Helvetica', 'Hiragino Sans GB', 'Sans';
 }
 
 
