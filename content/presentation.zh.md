@@ -5,6 +5,10 @@ description = "谭丞的近期学术报告。"
 date = "2021-06-27"
 +++
 
+- <i class="fas fa-cloud"></i> Implementation of residue level coarse-grained models in GENESIS.  
+第 59 回日本生物物理学会年会, 仙台, 日本  
+2021 年 11 月 25 日
+
 - <i class="fas fa-cloud"></i> Phase behavior of transcription factors studied with molecular dynamics simulations.  
 第 8 回 HPCI 成果報告会, 线上  
 2021 年 10 月 29 日

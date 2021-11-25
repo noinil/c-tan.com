@@ -5,6 +5,10 @@ description = "Cheng Tan's recent presentations."
 date = "2021-06-27"
 +++
 
+- <i class="fas fa-cloud"></i> Implementation of residue level coarse-grained models in GENESIS.  
+_The 59th Annual Meeting of the Biophysical Society of Japan_, Sendai, Japan  
+Thr, Nov 25, 2021
+
 - <i class="fas fa-cloud"></i> Phase behavior of transcription factors studied with molecular dynamics simulations.  
 _The 8th HPCI System Research Project Report Meeting_, Online  
 Fri, Oct 29, 2021
