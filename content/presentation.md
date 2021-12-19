@@ -2,8 +2,12 @@
 title = "Recent Presentations"
 author = "Cheng Tan"
 description = "Cheng Tan's recent presentations."
-date = "2021-06-27"
+date = "2021-12-19"
 +++
+
+- <i class="fas fa-cloud"></i> Implementation of residue level coarse-grained models for biomolecules in GENESIS.  
+_The 13th JLESC Workshop_, Online
+Thr, Dec 16, 2021
 
 - <i class="fas fa-cloud"></i> Implementation of residue level coarse-grained models in GENESIS.  
 _The 59th Annual Meeting of the Biophysical Society of Japan_, Sendai, Japan  
