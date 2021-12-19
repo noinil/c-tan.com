@@ -6,7 +6,7 @@ date = "2021-12-19"
 +++
 
 - <i class="fas fa-cloud"></i> Implementation of residue level coarse-grained models for biomolecules in GENESIS.  
-_The 13th JLESC Workshop_, Online
+_The 13th JLESC Workshop_, Online  
 Thr, Dec 16, 2021
 
 - <i class="fas fa-cloud"></i> Implementation of residue level coarse-grained models in GENESIS.  
