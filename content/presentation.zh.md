@@ -2,8 +2,12 @@
 title = "最近发表的学术报告"
 author = "谭丞"
 description = "谭丞的近期学术报告。"
-date = "2021-12-19"
+date = "2022-03-05"
 +++
+
+- <i class="fas fa-cloud"></i> Residue-Level Coarse-Grained Simulations in GENESIS and Applications to Biological Systems
+理研 BDR 研讨会 2022, 线上  
+2022 年 03 月 02 日
 
 - <i class="fas fa-cloud"></i> Implementation of residue level coarse-grained models for biomolecules in GENESIS.  
 第 13 回 JLESC 研讨会, 线上  
