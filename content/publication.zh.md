@@ -15,7 +15,7 @@ _Nucleic Acids Research_ **49**, 15 (2021): 8642-8664. [<i class="fas fa-link"><
 
 2. The kinetic landscape of nucleosome assembly: A coarse-grained molecular dynamics study.  
 Giovanni B. Brandani, <u>Cheng Tan</u>, and Shoji Takada.  
-_PLoS Computational Biology_ (2021). [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1009253)
+_PLoS Computational Biology_ **17**, 7 (2021): e1009253. [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1009253)
 
 3. New parallel computing algorithm of molecular dynamics for extremely huge scale biological systems.  
 Jaewoon Jung, Chigusa Kobayashi, Kento Kasahara, <u>Cheng Tan</u>, Akiyoshi Kuroda, Kazuo Minami, Shigeru Ishiduki et al.  
