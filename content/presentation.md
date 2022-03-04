@@ -5,8 +5,8 @@ description = "Cheng Tan's recent presentations."
 date = "2022-03-04"
 +++
 
-- <i class="fas fa-cloud"></i> Residue-Level Coarse-Grained Simulations in GENESIS and Applications to Biological Systems
-_RIKEN BDR Symposium 2022_, Online  
+- <i class="fas fa-cloud"></i> Residue-Level Coarse-Grained Simulations in GENESIS and Applications to Biological Systems.   
+_RIKEN BDR Symposium 2022_, Online   
 Wed, Mar 02, 2022
 
 - <i class="fas fa-cloud"></i> Implementation of residue level coarse-grained models for biomolecules in GENESIS.  
