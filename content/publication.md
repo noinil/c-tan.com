@@ -2,30 +2,30 @@
 title = "Recent Publications"
 author = "Cheng Tan"
 description = "Cheng Tan's recent papers."
-date = "2021-11-03"
+date = "2022-05-14"
 +++
 
-0. Implementation of residue-level coarse-grained models in GENESIS for large-scale molecular dynamics simulations.  
+1. Implementation of residue-level coarse-grained models in GENESIS for large-scale molecular dynamics simulations.  
 <u>Cheng Tan</u>, Jaewoon Jung, Chigusa Kobayashi, Diego Ugarte La Torre, Shoji Takada, and Yuji Sugita.  
-_bioRxiv_ (2021). [<i class="fas fa-link"></i>](https://doi.org/10.1101/2021.10.21.465249)
+_PLoS Computational Biology_ **18**, 4 (2022): e1009578. [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1009578)
 
-1. Testing mechanisms of DNA sliding by architectural DNA-binding proteins: dynamics of single wild-type and mutant protein molecules in vitro and in vivo.  
+2. Testing mechanisms of DNA sliding by architectural DNA-binding proteins: dynamics of single wild-type and mutant protein molecules in vitro and in vivo.  
 Kiyoto Kamagata, Yuji Itoh, <u>Cheng Tan</u>, Eriko Mano, Yining Wu, Sridhar Mandali, Shoji Takada, and Reid C. Johnson.  
 _Nucleic Acids Research_ **49**, 15 (2021): 8642-8664. [<i class="fas fa-link"></i>](https://doi.org/10.1093/nar/gkab658)
 
-2. The kinetic landscape of nucleosome assembly: A coarse-grained molecular dynamics study.  
+3. The kinetic landscape of nucleosome assembly: A coarse-grained molecular dynamics study.  
 Giovanni B. Brandani, <u>Cheng Tan</u>, and Shoji Takada.  
 _PLoS Computational Biology_ **17**, 7 (2021): e1009253. [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1009253)
 
-3. New parallel computing algorithm of molecular dynamics for extremely huge scale biological systems.  
+4. New parallel computing algorithm of molecular dynamics for extremely huge scale biological systems.  
 Jaewoon Jung, Chigusa Kobayashi, Kento Kasahara, <u>Cheng Tan</u>, Akiyoshi Kuroda, Kazuo Minami, Shigeru Ishiduki et al.  
 _Journal of Computational Chemistry_ **42**, 4 (2021): 231-241. [<i class="fas fa-link"></i>](https://doi.org/10.1002/jcc.26450)
 
-4. The HMGB chromatin protein Nhp6A can bypass obstacles when traveling on DNA.  
+5. The HMGB chromatin protein Nhp6A can bypass obstacles when traveling on DNA.  
 Kiyoto Kamagata, Kana Ouchi, <u>Cheng Tan</u>, Eriko Mano, Sridhar Mandali, Yining Wu, Shoji Takada, Satoshi Takahashi, and Reid C. Johnson.  
 _Nucleic Acids Research_ **48**, 19 (2020): 10820-10831. [<i class="fas fa-link"></i>](https://doi.org/10.1093/nar/gkaa799)
 
-5. Nucleosome allostery in pioneer transcription factor binding.  
+6. Nucleosome allostery in pioneer transcription factor binding.  
 <u>Cheng Tan</u>, and Shoji Takada.  
 _Proceedings of the National Academy of Sciences_ **117**, 34 (2020): 20586-20596. [<i class="fas fa-link"></i>](https://www.pnas.org/content/117/34/20586)
 

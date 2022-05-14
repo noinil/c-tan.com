@@ -2,12 +2,12 @@
 title = "最近发表的学术论文"
 author = "谭丞"
 description = "谭丞的学术论文列表。"
-date = "2021-11-03"
+date = "2022-05-14"
 +++
 
-0. Implementation of residue-level coarse-grained models in GENESIS for large-scale molecular dynamics simulations.  
+1. Implementation of residue-level coarse-grained models in GENESIS for large-scale molecular dynamics simulations.  
 <u>Cheng Tan</u>, Jaewoon Jung, Chigusa Kobayashi, Diego Ugarte La Torre, Shoji Takada, and Yuji Sugita.  
-_bioRxiv_ (2021). [<i class="fas fa-link"></i>](https://doi.org/10.1101/2021.10.21.465249)
+_PLoS Computational Biology_ **18**, 4 (2022): e1009578. [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1009578)
 
 1. Testing mechanisms of DNA sliding by architectural DNA-binding proteins: dynamics of single wild-type and mutant protein molecules in vitro and in vivo.  
 Kiyoto Kamagata, Yuji Itoh, <u>Cheng Tan</u>, Eriko Mano, Yining Wu, Sridhar Mandali, Shoji Takada, and Reid C. Johnson.  
