@@ -13,7 +13,7 @@ keywords = ""
 contentratio = 0.7
 
 # example ["css/custom.css"]
-customCss = ["css/ctan.css"]
+# customCss = ["css/ctan.css"]
 # example ["js/custom.js"]
 customJs = []
 
