@@ -1,0 +1,145 @@
+/* Font settings */
+* {
+    font-weight: normal;
+    font-size: 100%;
+}
+
+p, li, ul.listing {
+    font-family: 'Times New Roman', 'Songti SC', 'SimSong', 'PingFang SC', 'Helvetica', 'Hiragino Sans GB', 'Hiragino Mincho ProN', 'Serif';
+    font-size: 100%;
+}
+
+div.nav__links > li > a {
+    font-family: 'Helvetica', 'Arial', 'PingFangSC', 'Heiti SC', 'Microsoft YaHei', 'PingFang SC', 'Helvetica', 'Hiragino Sans GB', 'Sans';
+    font-size: 125%;
+}
+
+div.nav__links > li > a.current {
+    font-weight: bold;
+}
+
+ul.sl-nav > * {
+    font-family: 'Helvetica', 'Arial', 'PingFangSC', 'Heiti SC', 'Microsoft YaHei', 'PingFang SC', 'Helvetica', 'Hiragino Sans GB', 'Sans';
+}
+
+ul.dropdown > * {
+    font-family: 'Helvetica', 'Arial', 'PingFangSC', 'Heiti SC', 'Microsoft YaHei', 'PingFang SC', 'Helvetica', 'Hiragino Sans GB', 'Sans';
+}
+
+.description * {
+    font-family: 'Helvetica', 'Arial', 'PingFangSC', 'Heiti SC', 'Microsoft YaHei', 'PingFang SC', 'Helvetica', 'Hiragino Sans GB', 'Sans';
+}
+
+
+
+/* Color settings */
+:root {
+    /* Define basic colors */
+    --ct-base03:  #002b36;
+    --ct-base02:  #073642;
+    --ct-base01:  #586e75;
+    --ct-base00:  #657b83;
+    --ct-base0:   #839496;
+    --ct-base1:   #93a1a1;
+    --ct-base2:   #eee8d5;
+    --ct-base3:   #fdf6e3;
+    --ct-yellow:  #b58900;
+    --ct-orange:  #cb4b16;
+    --ct-red:     #dc322f;
+    --ct-magenta: #d33682;
+    --ct-violet:  #6c71c4;
+    --ct-blue:    #268bd2;
+    --ct-cyan:    #2aa198;
+    --ct-green:   #859900;
+
+    /* theme colors */
+    --bg-color: var(--ct-base3);
+    --secondary-bg-color: var(--ct-base2);
+    --heading-color: var(--ct-base00);
+    --body-color: var(--ct-base01);
+    --post-color: var(--ct-base02);
+    --border-color: var(--ct-base1);
+    --form-border-color: var(--ct-cyan);
+    --form-button-hover-border-color: var(--ct-cyan);
+    --pre-bg-color: var(--ct-base3);
+    --nav-text-color: var(--ct-base1);
+    --tag-color: var(--ct-base1);
+    --blockquote-text-color: var(--ct-base0);
+    --blockquote-border-color: var(--ct-base1);
+    --link-color: var(--ct-link);
+    --warning-alert-color: var(--ct-red);
+    --ct-blog-list: var(--ct-base01);
+    --ct-link: var(--ct-base1);
+    --ct-link-hover: var(--ct-orange);
+}
+
+
+html[data-theme='dark'] {
+
+    /* Set theme colors */
+    --bg-color: var(--ct-base03);
+    --secondary-bg-color: var(--ct-base02);
+    --heading-color: var(--ct-base0);
+    --body-color: var(--ct-base1);
+    --post-color: var(--ct-base2);
+    --border-color: var(--ct-base01);
+    --form-border-color: var(--ct-cyan);
+    --form-button-hover-border-color: var(--ct-cyan);
+    --pre-bg-color: var(--ct-base03);
+    --nav-text-color: var(--ct-base01);
+    --tag-color: var(--ct-base01);
+    --blockquote-text-color: var(--ct-base00);
+    --blockquote-border-color: var(--ct-base01);
+    --link-color: var(--ct-link);
+    --warning-alert-color: var(--ct-red);
+    --ct-blog-list: var(--ct-base1);
+    --ct-link: var(--ct-base00);
+    --ct-link-hover: var(--ct-orange);
+}
+
+
+div.nav__links > li > a.current {
+    color: var(--ct-orange);
+}
+
+header .nav__list a:hover {
+    color: var(--ct-link-hover);
+}
+
+.sidebar .social-links a:hover {
+    color: var(--ct-link-hover);
+}
+
+.post .post-content a {
+    color: var(--ct-link);
+}
+
+.post .post-content a:hover {
+    color: var(--ct-link-hover);
+}
+
+.post .post-footer .meta a:hover {
+    color: var(--ct-link-hover);
+}
+
+.footer a:hover {
+    color: var(--ct-link-hover);
+}
+
+
+.list-with-title .listing .listing-post a {
+    color: var(--ct-blog-list);
+}
+
+.list-with-title .listing .listing-post a:hover {
+    color: var(--ct-link-hover);
+}
+
+list-with-title .listing .listing-post .post-time .date {
+    color: var(--ct-blog-list);
+}
+
+
+
+
+
