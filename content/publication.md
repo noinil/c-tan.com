@@ -5,6 +5,10 @@ description = "Cheng Tan's recent papers."
 date = "2022-05-14"
 +++
 
+1. Role of water-bridged interactions in metal ion coupled protein allostery.  
+Xingyue Guan$^{\dagger}$, <u>Cheng Tan</u>$^{\dagger}$, Wenfei Li, Wei Wang, and D. Thirumalai.  
+_PLoS Computational Biology_ **18**, 6 (2022): e1010195. [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1010195)
+
 1. Implementation of residue-level coarse-grained models in GENESIS for large-scale molecular dynamics simulations.  
 <u>Cheng Tan</u>, Jaewoon Jung, Chigusa Kobayashi, Diego Ugarte La Torre, Shoji Takada, and Yuji Sugita.  
 _PLoS Computational Biology_ **18**, 4 (2022): e1009578. [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1009578)
