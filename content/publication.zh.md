@@ -1,9 +1,11 @@
 +++
-title = "最近发表的学术论文"
+title = "学术著作"
 author = "谭丞"
 description = "谭丞的学术论文列表。"
 date = "2022-05-14"
 +++
+
+## 论文
 
 1. Role of water-bridged interactions in metal ion coupled protein allostery.  
 Xingyue Guan,$^{\star}$ <u>Cheng Tan</u>,$^{\star}$ Wenfei Li, Wei Wang, and D. Thirumalai.  
@@ -76,3 +78,10 @@ _Journal of Theoretical and Computational Chemistry_ **12**, 08 (2013): 1341015.
 16. Low folding cooperativity of HP35 revealed by single-molecule force spectroscopy and molecular dynamics simulation.  
 Chunmei Lv, <u>Cheng Tan</u>, Meng Qin, Dawei Zou, Yi Cao, and Wei Wang.  
 _Biophysical Journal_ **102**, 8 (2012): 1944-1951. [<i class="fas fa-link"></i>](https://dx.doi.org/10.1016%2Fj.bpj.2012.03.028)
+
+
+## 书籍
+
+1. 分子シミュレーションで理解する相分離のメカニズム。   
+<u>Cheng Tan</u>， 新津 藍， 依田 隆夫， 杉田 有治。  
+_相分離プロトコール_， 発展編5， 235-241， 羊土社 (2022)。
