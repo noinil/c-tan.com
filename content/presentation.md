@@ -2,8 +2,24 @@
 title = "Recent Presentations"
 author = "Cheng Tan"
 description = "Cheng Tan's recent presentations."
-date = "2022-03-04"
+date = "2022-11-26"
 +++
+
+- <i class="fas fa-cloud"></i> Implementation of residue level coarse-grained models in GENESIS for large-scale molecular dynamics simulations.  
+_The 36th molecular simulation symposium_, Tokyo, Japan  
+Wed, Dec 07, 2022
+
+- <i class="fas fa-cloud"></i> Multi-scale molecular dynamics study of repulsive interactions in regulating biomolecular condensation.  
+_The 32nd Tokyo RNA Club, RIKEN Symposium_, Tokyo, Japan  
+Sat, Nov 12, 2022
+
+- <i class="fas fa-cloud"></i> Implementation of Residue-Level Coarse-Grained Models in GENESIS and Applications of Multi-scale Simulations on Fugaku to Study Biomolecular Condensates.  
+_The 238th R-CCS Cafe_, Online, Japan  
+Mon, Nov 07, 2022
+
+- <i class="fas fa-cloud"></i> Molecular dynamics study of phase behaviors of heat-resistant obscure proteins and their anti-aggregation functions.  
+_The 60th Annual Meeting of the Biophysical Society of Japan_, Hakodate, Japan  
+Wed, Sep 28, 2022
 
 - <i class="fas fa-cloud"></i> Residue-Level Coarse-Grained Simulations in GENESIS and Applications to Biological Systems.   
 _RIKEN BDR Symposium 2022_, Online   
