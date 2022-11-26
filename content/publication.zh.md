@@ -9,7 +9,7 @@ date = "2022-05-14"
 
 1. Repulsive interaction and secondary structure of highly charged proteins in regulating biomolecular condensation.  
 <u>Cheng Tan</u>, Ai Niitsu, and Yuji Sugita.  
-_bioRxiv_ [<i class="fas fa-link"></i>](https://doi.org/10.1101/2022.11.16.516834)
+_bioRxiv_ 10.1101/2022.11.16.516834 [<i class="fas fa-link"></i>](https://doi.org/10.1101/2022.11.16.516834)
 
 2. Role of water-bridged interactions in metal ion coupled protein allostery.  
 Xingyue Guan,$^{\star}$ <u>Cheng Tan</u>,$^{\star}$ Wenfei Li, Wei Wang, and D. Thirumalai.  
