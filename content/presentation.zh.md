@@ -5,11 +5,11 @@ description = "谭丞的近期学术报告。"
 date = "2022-11-26"
 +++
 
-- <i class="fas fa-cloud"></i> Implementation of residue level coarse-grained models in GENESIS for large-scale molecular dynamics simulations.  
+- <i class="fas fa-comment"></i> Implementation of residue level coarse-grained models in GENESIS for large-scale molecular dynamics simulations.  
 第 36 回分子シミュレーション討論会, 東京, 日本  
 2022 年 12 月 07 日
 
-- <i class="fas fa-cloud"></i> Multi-scale molecular dynamics study of repulsive interactions in regulating biomolecular condensation.  
+- <i class="fas fa-comment"></i> Multi-scale molecular dynamics study of repulsive interactions in regulating biomolecular condensation.  
 第 32 回 東京 RNA Club, 東京, 日本  
 2022 年 11 月 12 日
 
@@ -17,7 +17,7 @@ date = "2022-11-26"
 第 238 回 R-CCS Cafe, 线上  
 2022 年 11 月 07 日
 
-- <i class="fas fa-cloud"></i> Molecular dynamics study of phase behaviors of heat-resistant obscure proteins and their anti-aggregation functions.  
+- <i class="fas fa-image"></i> Molecular dynamics study of phase behaviors of heat-resistant obscure proteins and their anti-aggregation functions.  
 第 60 回日本生物物理学会年会, 函館, 日本  
 2022 年 09 月 28 日
 
