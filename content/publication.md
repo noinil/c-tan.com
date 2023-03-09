@@ -11,11 +11,11 @@ date = "2023-02-28"
 
 1. Highly charged proteins and their repulsive interactions antagonize biomolecular condensation.  
 <u>Cheng Tan</u>, Ai Niitsu, and Yuji Sugita.  
-_JACS Au_, 10.1021/jacsau.2c00646 [<i class="fas fa-link"></i>](https://doi.org/10.1021/jacsau.2c00646)
+_JACS Au_,  10.1021/jacsau.2c00646, (2023). [<i class="fas fa-link"></i>](https://doi.org/10.1021/jacsau.2c00646)
 
 2. Nucleosome allostery in pioneer transcription factor binding.  
 <u>Cheng Tan</u>, and Shoji Takada.  
-_Proceedings of the National Academy of Sciences_ **117**, 34 (2020): 20586-20596. [<i class="fas fa-link"></i>](https://www.pnas.org/content/117/34/20586)
+_Proceedings of the National Academy of Sciences, U.S.A._ **117**, 34 (2020): 20586-20596. [<i class="fas fa-link"></i>](https://www.pnas.org/content/117/34/20586)
 
 3. Dynamic coupling among protein binding, sliding, and DNA bending revealed by molecular dynamics.  
 <u>Cheng Tan</u>, Tsuyoshi Terakawa, and Shoji Takada.  

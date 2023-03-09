@@ -7,11 +7,23 @@ date = "2022-11-26"
 
 ## 论文
 
+### 精选
+
 1. Highly charged proteins and their repulsive interactions antagonize biomolecular condensation.  
 <u>Cheng Tan</u>, Ai Niitsu, and Yuji Sugita.  
-_JACS Au_, 10.1021/jacsau.2c00646 [<i class="fas fa-link"></i>](https://doi.org/10.1021/jacsau.2c00646)
+_JACS Au_,  10.1021/jacsau.2c00646, (2023). [<i class="fas fa-link"></i>](https://doi.org/10.1021/jacsau.2c00646)
 
-2. Role of water-bridged interactions in metal ion coupled protein allostery.  
+2. Nucleosome allostery in pioneer transcription factor binding.  
+<u>Cheng Tan</u>, and Shoji Takada.  
+_Proceedings of the National Academy of Sciences, U.S.A._ **117**, 34 (2020): 20586-20596. [<i class="fas fa-link"></i>](https://www.pnas.org/content/117/34/20586)
+
+3. Dynamic coupling among protein binding, sliding, and DNA bending revealed by molecular dynamics.  
+<u>Cheng Tan</u>, Tsuyoshi Terakawa, and Shoji Takada.  
+_Journal of the American Chemical Society_ **138**, 27 (2016): 8512-8522. [<i class="fas fa-link"></i>](https://pubs.acs.org/doi/10.1021/jacs.6b03729)
+
+### 其他
+
+4. Role of water-bridged interactions in metal ion coupled protein allostery.  
 Xingyue Guan,$^{\star}$ <u>Cheng Tan</u>,$^{\star}$ Wenfei Li, Wei Wang, and D. Thirumalai.  
 _PLoS Computational Biology_ **18**, 6 (2022): e1010195. [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1010195)
 
@@ -35,10 +47,6 @@ _Journal of Computational Chemistry_ **42**, 4 (2021): 231-241. [<i class="fas f
 Kiyoto Kamagata, Kana Ouchi, <u>Cheng Tan</u>, Eriko Mano, Sridhar Mandali, Yining Wu, Shoji Takada, Satoshi Takahashi, and Reid C. Johnson.  
 _Nucleic Acids Research_ **48**, 19 (2020): 10820-10831. [<i class="fas fa-link"></i>](https://doi.org/10.1093/nar/gkaa799)
 
-8. Nucleosome allostery in pioneer transcription factor binding.  
-<u>Cheng Tan</u>, and Shoji Takada.  
-_Proceedings of the National Academy of Sciences_ **117**, 34 (2020): 20586-20596. [<i class="fas fa-link"></i>](https://www.pnas.org/content/117/34/20586)
-
 9. A singularity-free torsion angle potential for coarse-grained molecular dynamics simulations.  
 <u>Cheng Tan</u>, Jaewoon Jung, Chigusa Kobayashi, and Yuji Sugita.  
 _The Journal of Chemical Physics_ **153**, 4 (2020): 044110. [<i class="fas fa-link"></i>](https://doi.org/10.1063/5.0013089)
@@ -58,10 +66,6 @@ _Nucleic Acids Research_ **46**, 6 (2018): 2788-2801. [<i class="fas fa-link"></
 13. Sequence-dependent nucleosome sliding in rotation-coupled and uncoupled modes revealed by molecular simulations.  
 Toru Niina, Giovanni B. Brandani, <u>Cheng Tan</u>, and Shoji Takada.  
 _PLoS Computational Biology_ **13**, 12 (2017): e1005880. [<i class="fas fa-link"></i>](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005880)
-
-14. Dynamic coupling among protein binding, sliding, and DNA bending revealed by molecular dynamics.  
-<u>Cheng Tan</u>, Tsuyoshi Terakawa, and Shoji Takada.  
-_Journal of the American Chemical Society_ **138**, 27 (2016): 8512-8522. [<i class="fas fa-link"></i>](https://pubs.acs.org/doi/10.1021/jacs.6b03729)
 
 15. Modeling structural dynamics of biomolecular complexes by coarse-grained molecular simulations.  
 Shoji Takada, Ryo Kanada, <u>Cheng Tan</u>, Tsuyoshi Terakawa, Wenfei Li, and Hiroo Kenzaki.  
