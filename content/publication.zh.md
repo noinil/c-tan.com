@@ -7,7 +7,7 @@ date = "2022-11-26"
 
 ## 论文
 
-1. Repulsive interaction and secondary structure of highly charged proteins in regulating biomolecular condensation.  
+1. Highly charged proteins and their repulsive interactions antagonize biomolecular condensation.  
 <u>Cheng Tan</u>, Ai Niitsu, and Yuji Sugita.  
 _JACS Au_, 10.1021/jacsau.2c00646 [<i class="fas fa-link"></i>](https://doi.org/10.1021/jacsau.2c00646)
 
