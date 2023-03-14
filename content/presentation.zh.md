@@ -15,7 +15,7 @@ _第 5 回 R-CCS 国际研讨会_, 神户, 日本
 
 - <i class="fas fa-comment"></i> Secondary structures and repulsive electrostatic interactioins of Hero proteins in regulating biomolecular condensation.  
 _第 2 回 BIE 会议_, 横浜, 日本  
-2023 年 6 月 19 日
+2023 年 1 月 19 日
 
 - <i class="fas fa-comment"></i> Implementation of residue level coarse-grained models in GENESIS for large-scale molecular dynamics simulations.  
 第 36 回分子シミュレーション討論会, 東京, 日本  
