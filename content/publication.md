@@ -25,7 +25,7 @@ _Journal of the American Chemical Society_ **138**, 27 (2016): 8512-8522. [<i cl
 
 4. Role of water-bridged interactions in metal ion coupled protein allostery.  
 Xingyue Guan,$^{\star}$ <u>Cheng Tan</u>,$^{\star}$ Wenfei Li, Wei Wang, and D. Thirumalai.  
-_PLoS Computational Biology_ **18**, 6 (2022): e1010195. [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1010195)
+_PLoS Computational Biology_ **18**, 6 (2022): e1010195. [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1010195) ($\star$ equally contributed first author)
 
 3. Implementation of residue-level coarse-grained models in GENESIS for large-scale molecular dynamics simulations.  
 <u>Cheng Tan</u>, Jaewoon Jung, Chigusa Kobayashi, Diego Ugarte La Torre, Shoji Takada, and Yuji Sugita.  
