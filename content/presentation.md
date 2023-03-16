@@ -13,7 +13,7 @@ Mon, Feb 20, 2023
 _The 5th R-CCS International Symposium_, Kobe, Japan  
 Mon, Feb 06, 2023
 
-- <i class="fas fa-comment"></i> Secondary structures and repulsive electrostatic interactioins of Hero proteins in regulating biomolecular condensation.  
+- <i class="fas fa-comment"></i> Secondary structures and repulsive electrostatic interactions of Hero proteins in regulating biomolecular condensation.  
 _The 2nd BIE Workshop_, Yokohama, Japan  
 Thr, Jan 19, 2023
 
@@ -32,6 +32,10 @@ Mon, Nov 07, 2022
 - <i class="fas fa-image"></i> Molecular dynamics study of phase behaviors of heat-resistant obscure proteins and their anti-aggregation functions.  
 _The 60th Annual Meeting of the Biophysical Society of Japan_, Hakodate, Japan  
 Wed, Sep 28, 2022
+
+- <i class="fas fa-comment"></i> Repulsive interactions in regulating biomolecular condensation.  
+_The 2nd Non-domain Biopolymer Project Meeting_, Tokyo, Japan  
+Tue, Sep 20, 2022
 
 - <i class="fas fa-cloud"></i> Residue-level coarse-grained simulations in GENESIS and applications to biological systems.   
 _RIKEN BDR Symposium 2022_, Online   
