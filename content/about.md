@@ -14,7 +14,7 @@ I started my current job in the [Computational Biophysics Research Team at RIKEN
 - Multi-scale organization of the genome.
 I write code for MD software [GENESIS](https://www.r-ccs.riken.jp/labs/cbrt/) and [CafeMol](http://www.cafemol.org).
 
-To participate in a sport without any physical contact, I started practicing the Rubik’s cube in 2009, and I broke the Chinese national record for the 2×2 cube in a game in 2010. Unfortunately, I lost my passion for keeping practicing since then. You can find my official records from [World Cube Association](https://www.worldcubeassociation.org/persons/2009TANC02).
+To participate in a sport without any physical contact, I started practicing the Rubik's cube in 2009, and I broke the Chinese national record for the 2×2 cube in a game in 2010. Unfortunately, I lost my passion for keeping practicing since then. You can find my official records from [World Cube Association](https://www.worldcubeassociation.org/persons/2009TANC02).
 
 
 ## Education
