@@ -2,7 +2,7 @@
 title = "最近发表的学术报告"
 author = "谭丞"
 description = "谭丞的近期学术报告。"
-date = "2022-11-26"
+date = "2023-03-16"
 +++
 
 - <i class="fas fa-image"></i> Repulsive interaction and secondary structure of highly charged proteins in regulating biomolecular condensation.  

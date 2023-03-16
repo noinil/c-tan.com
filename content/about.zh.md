@@ -1,23 +1,16 @@
 +++
 title = "关于"
 description = "谭丞的个人信息"
-date = "2021-06-27"
+date = "2023-03-16"
 aliases = ["contact"]
 author = "谭丞"
 +++
 
-我自 2019 年 5 月 1 日 （令和纪年开始之日）起在 [理化学研究所计算科学研究センター](http://www2.riken.jp/TMS2012/cbp/en/index.html) 从事计算生物物理学研究工作。 目前我的科研重心集中在 DNA 结合蛋白的功能性运动， 基因的多尺度组装， 液相分离的生物学意义， 以及分子动力学模拟中生物分子模型的构建等方面。 此外， 我参与分子动力学软件 [GENESIS](https://www.r-ccs.riken.jp/labs/cbrt/) 和 [CafeMol](http://www.cafemol.org/index.php) 的开发工作。
+我自 2019 年 5 月 1 日 （令和纪年开始之日）起在 [理化学研究所计算科学研究センター](http://www2.riken.jp/TMS2012/cbp/en/index.html) 从事计算生物物理学研究工作。 目前我的科研兴趣集中在 DNA 结合蛋白的功能性运动， 基因的多尺度组装， 相分离的生物学意义， 以及分子动力学模拟中生物分子模型的构建等方面。 此外， 我参与分子动力学软件 [GENESIS](https://www.r-ccs.riken.jp/labs/cbrt/) 和 [CafeMol](http://www.cafemol.org) 的开发工作。
  
-我曾经是自由软件支持者， 有长达 10+ 年的各种 Linux 发行版使用经验。 然而如今我更喜欢舒适不折腾的付费软件， 只在实验室台式机和 VPS 上留下一点点 Arch Linux 的工作空间。
+我曾经是自由软件支持者， 有长达 10+ 年的各种 Linux 发行版使用经验。 然而如今我更喜欢舒适不折腾的付费软件， 只在实验室服务器与某些玩具机器上留下一点点 Arch Linux 的工作空间。
 
 为了参加一项没有任何身体接触的竞技体育， 我以研究生二年级的高龄于 2009 年开始练习魔方， 在 2010 年的一次比赛中侥幸打破一项全国记录， 从此不思进取， 至今没有背完全部公式。在 [World Cube Association](https://www.worldcubeassociation.org/persons/2009TANC02) 可以看到我的全部官方成绩。
-
-## 研究兴趣
-
-- 统计物理
-- 计算机模拟
-- 基因组装
-- 数据可视化
 
 
 ## 教育经历

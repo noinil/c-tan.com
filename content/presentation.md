@@ -2,7 +2,7 @@
 title = "Recent Presentations"
 author = "Cheng Tan"
 description = "Cheng Tan's recent presentations."
-date = "2022-11-26"
+date = "2023-03-16"
 +++
 
 - <i class="fas fa-image"></i> Repulsive interaction and secondary structure of highly charged proteins in regulating biomolecular condensation.  
