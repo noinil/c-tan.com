@@ -7,12 +7,12 @@ author = "Cheng Tan"
 +++
 
 
-I started my current job in the [Computational Biophysics Research Team at RIKEN Center for Computational Science](http://www2.riken.jp/TMS2012/cbp/en/index.html) in May 2019. My research interests include the following:
+I started my current job in the [Computational Biophysics Research Team at RIKEN Center for Computational Science](http://www2.riken.jp/TMS2012/cbp/en/index.html) in May 2019.  I write code for MD software [GENESIS](https://www.r-ccs.riken.jp/labs/cbrt/) and [CafeMol](http://www.cafemol.org).  My research interests include the following:
 - Modeling biomolecules in molecular dynamics simulations,
 - Biomolecular Liquid-liquid phase separation,
 - Functional interactions between DNA and protein,
 - Multi-scale organization of the genome.
-I write code for MD software [GENESIS](https://www.r-ccs.riken.jp/labs/cbrt/) and [CafeMol](http://www.cafemol.org).
+
 
 To participate in a sport without any physical contact, I started practicing the Rubik's cube in 2009, and I broke the Chinese national record for the 2×2 cube in a game in 2010. Unfortunately, I lost my passion for keeping practicing since then. You can find my official records from [World Cube Association](https://www.worldcubeassociation.org/persons/2009TANC02).
 
