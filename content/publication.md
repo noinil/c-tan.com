@@ -11,7 +11,7 @@ date = "2023-03-16"
 
 1. Highly charged proteins and their repulsive interactions antagonize biomolecular condensation.  
 <u>Cheng Tan</u>, Ai Niitsu, and Yuji Sugita.  
-_JACS Au_,  10.1021/jacsau.2c00646, (2023). [<i class="fas fa-link"></i>](https://doi.org/10.1021/jacsau.2c00646)
+_JACS Au_ **3**, 3 (2023): 834-848. [<i class="fas fa-link"></i>](https://doi.org/10.1021/jacsau.2c00646)
 
 2. Nucleosome allostery in pioneer transcription factor binding.  
 <u>Cheng Tan</u>, and Shoji Takada.  
@@ -25,7 +25,7 @@ _Journal of the American Chemical Society_ **138**, 27 (2016): 8512-8522. [<i cl
 
 4. Role of water-bridged interactions in metal ion coupled protein allostery.  
 Xingyue Guan,$^{\star}$ <u>Cheng Tan</u>,$^{\star}$ Wenfei Li, Wei Wang, and D. Thirumalai.  
-_PLoS Computational Biology_ **18**, 6 (2022): e1010195. [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1010195) ($\star$ equally contributed first author)
+_PLoS Computational Biology_ **18**, 6 (2022): e1010195. [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1010195) ($\star$ co-first author)
 
 3. Implementation of residue-level coarse-grained models in GENESIS for large-scale molecular dynamics simulations.  
 <u>Cheng Tan</u>, Jaewoon Jung, Chigusa Kobayashi, Diego Ugarte La Torre, Shoji Takada, and Yuji Sugita.  

@@ -11,7 +11,7 @@ date = "2023-03-16"
 
 1. Highly charged proteins and their repulsive interactions antagonize biomolecular condensation.  
 <u>Cheng Tan</u>, Ai Niitsu, and Yuji Sugita.  
-_JACS Au_,  10.1021/jacsau.2c00646, (2023). [<i class="fas fa-link"></i>](https://doi.org/10.1021/jacsau.2c00646)
+_JACS Au_ **3**, 3 (2023): 834-848. [<i class="fas fa-link"></i>](https://doi.org/10.1021/jacsau.2c00646)
 
 2. Nucleosome allostery in pioneer transcription factor binding.  
 <u>Cheng Tan</u>, and Shoji Takada.  
