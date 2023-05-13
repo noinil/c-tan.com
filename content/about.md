@@ -12,7 +12,7 @@ I joined the [Computational Biophysics Research Team at RIKEN Center for Computa
 - Functional conformational changes of protein and DNA,
 - Multi-scale organization of the genome.
 
-In addition to my professional work, I enjoy participating in non-contact sports, and in 2009, I began practicing the Rubik's cube. My passion and dedication paid off in 2010, when I set a new Chinese national record for the 2×2 cube during a competition. Although I have not maintained the same level of practice since then, I am still proud of my achievement and encourage others to pursue their hobbies and passions outside of work. For those interested, my official records can be found on the [World Cube Association website](https://www.worldcubeassociation.org/persons/2009TANC02).
+In addition to my professional work, I enjoy participating in non-contact sports, and in 2009, I began practicing the Rubik's cube. My passion and dedication paid off in 2010, when I set a new Chinese national record for the 2×2×2 cube during a competition. Although I have not maintained the same level of practice since then, I am still proud of my achievement and encourage others to pursue their hobbies and passions outside of work. For those interested, my official records can be found on the [World Cube Association website](https://www.worldcubeassociation.org/persons/2009TANC02).
 
 
 ## Education
