@@ -6,15 +6,13 @@ aliases = ["contact"]
 author = "Cheng Tan"
 +++
 
-
-I started my current job in the [Computational Biophysics Research Team at RIKEN Center for Computational Science](http://www2.riken.jp/TMS2012/cbp/en/index.html) in May 2019.  I write code for MD software [GENESIS](https://www.r-ccs.riken.jp/labs/cbrt/) and [CafeMol](http://www.cafemol.org).  My research interests include the following:
+I joined the [Computational Biophysics Research Team at RIKEN Center for Computational Science](http://www2.riken.jp/TMS2012/cbp/en/index.html) in May 2019, where I currently work. One of my primary responsibilities is to develop code for molecular dynamics software [GENESIS](https://www.r-ccs.riken.jp/labs/cbrt/) (and [CafeMol](http://www.cafemol.org) in my last job). My research interests in computational biophysics are:
 - Modeling biomolecules in molecular dynamics simulations,
-- Biomolecular Liquid-liquid phase separation,
-- Functional interactions between DNA and protein,
+- Biomolecular condensation via liquid-liquid phase separation,
+- Functional conformational changes of protein and DNA,
 - Multi-scale organization of the genome.
 
-
-To participate in a sport without any physical contact, I started practicing the Rubik's cube in 2009, and I broke the Chinese national record for the 2×2×2 cube in a game in 2010. Unfortunately, I lost my passion for keeping practicing since then. You can find my official records from [World Cube Association](https://www.worldcubeassociation.org/persons/2009TANC02).
+In addition to my professional work, I enjoy participating in non-contact sports, and in 2009, I began practicing the Rubik's cube. My passion and dedication paid off in 2010, when I set a new Chinese national record for the 2×2 cube during a competition. Although I have not maintained the same level of practice since then, I am still proud of my achievement and encourage others to pursue their hobbies and passions outside of work. For those interested, my official records can be found on the [World Cube Association website](https://www.worldcubeassociation.org/persons/2009TANC02).
 
 
 ## Education
