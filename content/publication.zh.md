@@ -23,6 +23,10 @@ _Journal of the American Chemical Society_ **138**, 27 (2016): 8512-8522. [<i cl
 
 ### 其他
 
+4. Micelle-like clusters in phase-separated Nanog condensates: A molecular simulation study.  
+Azuki Mizutani, <u>Cheng Tan</u>, Yuji Sugita, and Shoji Takada.  
+_PLoS Computational Biology_ **19**, 7 (2023): e1011321. [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1011321)
+
 4. Role of water-bridged interactions in metal ion coupled protein allostery.  
 Xingyue Guan,$^{\star}$ <u>Cheng Tan</u>,$^{\star}$ Wenfei Li, Wei Wang, and D. Thirumalai.  
 _PLoS Computational Biology_ **18**, 6 (2022): e1010195. [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1010195) (共同一作)
