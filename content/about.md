@@ -22,6 +22,7 @@ In addition to my professional work, I enjoy participating in non-contact sports
 
 ## Work Experience
 
+- Associate Professor, 2023/04-current, _University of Hyogo_ (cross-appointment)
 - Postdoctoral Researcher, 2019/05-current, _RIKEN_
 - Postdoctoral Researcher, 2014/06-2019/04, _Kyoto University_
 
