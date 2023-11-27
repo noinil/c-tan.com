@@ -51,7 +51,7 @@ _第 60 回 日本生物物理学会年会_, 函館, 日本
 2022 年 09 月 28 日
 
 - <i class="fas fa-comment"></i> Repulsive interactions in regulating biomolecular condensation.  
-_非ドメイン生物学・第 2 回班会議_, Tokyo, Japan  
+_非ドメイン生物学・第 2 回班会議_, 東京, 日本  
 Tue, Sep 20, 2022
 
 - <i class="fas fa-cloud"></i> Residue-level coarse-grained simulations in GENESIS and applications to biological systems  
