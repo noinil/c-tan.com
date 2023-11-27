@@ -2,8 +2,25 @@
 title = "Recent Presentations"
 author = "Cheng Tan"
 description = "Cheng Tan's recent presentations."
-date = "2023-03-16"
+date = "2023-11-27"
 +++
+
+
+- <i class="fas fa-comment"></i> Regulation of Biomolecular Condensation Studied with Large-Scale Coarse-Grained Molecular Dynamics Simulations in GENESIS.  
+_The 61st Annual Meeting of the Biophysical Society of Japan_ (**Symposium: The forefront of biophysical research of liquid-liquid phase separation**), Nagoya, Japan  
+Wed, Nov 15, 2023
+
+- <i class="fas fa-image"></i> Development of Coarse-Grained Models in Molecular Dynamics Software GENESIS and Applications in Biomolecular Condensation Simulation.  
+_CCP2023 - 34th IUPAP Conference on Computational Physics_, Kobe, Japan  
+Mon, Aug 07, 2023
+
+- <i class="fas fa-image"></i> Highly Charged Proteins and Their Repulsive Interactions Antagonize Biomolecular Condensation.  
+_The 23rd Annual Meeting of the Protein Science Society of Japan_, Nagoya, Japan  
+Thr, Jul 06, 2023
+
+- <i class="fas fa-image"></i> Development of Coarse-Grained Models in Molecular Dynamics Software GENESIS and Applications in Biomolecular Condensation Simulation.  
+_Biomolecules and Nanostructures 8_, Krakow, Poland  
+Thr, Jun 15, 2023
 
 - <i class="fas fa-image"></i> Repulsive interaction and secondary structure of highly charged proteins in regulating biomolecular condensation.  
 _The 67th Biophysical Society Annual Meeting_, San Diego, USA  

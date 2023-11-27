@@ -2,11 +2,28 @@
 title = "最近发表的学术报告"
 author = "谭丞"
 description = "谭丞的近期学术报告。"
-date = "2023-03-16"
+date = "2023-11-27"
 +++
 
+
+- <i class="fas fa-comment"></i> Regulation of Biomolecular Condensation Studied with Large-Scale Coarse-Grained Molecular Dynamics Simulations in GENESIS.  
+_第 61 回 日本生物物理学会年会_, 名古屋, 日本  
+2023 年 11 月 15 日
+
+- <i class="fas fa-image"></i> Development of Coarse-Grained Models in Molecular Dynamics Software GENESIS and Applications in Biomolecular Condensation Simulation.  
+_第 34 回 IUPAP 计算物理学会议_, 神户, 日本  
+2023 年 8 月 7 日
+
+- <i class="fas fa-image"></i> Highly Charged Proteins and Their Repulsive Interactions Antagonize Biomolecular Condensation.  
+_第 23 回 日本蛋白质科学会年会_, 名古屋, 日本  
+2023 年 7 月 6 日
+
+- <i class="fas fa-image"></i> Development of Coarse-Grained Models in Molecular Dynamics Software GENESIS and Applications in Biomolecular Condensation Simulation.  
+_BioNano8_, 克拉科夫, 波兰  
+2023 年 6 月 15 日
+
 - <i class="fas fa-image"></i> Repulsive interaction and secondary structure of highly charged proteins in regulating biomolecular condensation.  
-_第 67 回生物物理学年会_, San Diego, USA  
+_第 67 回生物物理学年会_, San Diego, 美国  
 2023 年 2 月 20 日
 
 - <i class="fas fa-image"></i> Implementation of residue level coarse-grained models in GENESIS for large-scale molecular dynamics simulations.  
