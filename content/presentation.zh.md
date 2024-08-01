@@ -6,6 +6,14 @@ date = "2023-11-27"
 +++
 
 
+- <i class="fas fa-image"></i> Highly Charged Proteins and Their Repulsive Interactions in Regulation of Biomolecular Condensation.  
+_IUPAB 2024_, 京都, 日本  
+2024 年 6 月 25 日
+
+- <i class="fas fa-image"></i> Multiscale Molecular Dynamics Simulations Reveal the Regulatory Functions of Highly Charged Proteins in Biomolecular Condensation.  
+_第 24 回 日本蛋白质科学会年会_, 札幌, 日本  
+2024 年 6 月 13 日
+
 - <i class="fas fa-comment"></i> Regulation of Biomolecular Condensation Studied with Large-Scale Coarse-Grained Molecular Dynamics Simulations in GENESIS.  
 _第 61 回 日本生物物理学会年会_, 名古屋, 日本  
 2023 年 11 月 15 日

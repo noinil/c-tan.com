@@ -5,6 +5,13 @@ description = "Cheng Tan's recent presentations."
 date = "2023-11-27"
 +++
 
+- <i class="fas fa-image"></i> Highly Charged Proteins and Their Repulsive Interactions in Regulation of Biomolecular Condensation.  
+_IUPAB 2024_, Kyoto, Japan  
+Tue, Jun 25th, 2024
+
+- <i class="fas fa-image"></i> Multiscale Molecular Dynamics Simulations Reveal the Regulatory Functions of Highly Charged Proteins in Biomolecular Condensation.  
+_The 24th Annual Meeting of the Protein Science Society of Japan_, Sapporo, Japan  
+Thr, Jun 13th, 2024
 
 - <i class="fas fa-comment"></i> Regulation of Biomolecular Condensation Studied with Large-Scale Coarse-Grained Molecular Dynamics Simulations in GENESIS.  
 _The 61st Annual Meeting of the Biophysical Society of Japan_ (**Symposium: The forefront of biophysical research of liquid-liquid phase separation**), Nagoya, Japan  

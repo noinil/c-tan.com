@@ -9,21 +9,29 @@ date = "2023-03-16"
 
 ### Featured Journal Articles
 
-1. Highly charged proteins and their repulsive interactions antagonize biomolecular condensation.  
+1. GENESIS CGDYN: large-scale coarse-grained MD simulation with dynamic load balancing for heterogeneous biomolecular systems.  
+Jaewoon Jung,$^{\star}$ <u>Cheng Tan</u>,$^{\star}$ and Yuji Sugita.  
+Nature Communications 15, 1 (2024): 3370. [<i class="fas fa-link"></i>](https://doi.org/10.1038/s41467-024-47654-1) ($\star$ co-first author)
+
+2. Highly charged proteins and their repulsive interactions antagonize biomolecular condensation.  
 <u>Cheng Tan</u>, Ai Niitsu, and Yuji Sugita.  
 _JACS Au_ **3**, 3 (2023): 834-848. [<i class="fas fa-link"></i>](https://doi.org/10.1021/jacsau.2c00646)
 
-2. Nucleosome allostery in pioneer transcription factor binding.  
+3. Nucleosome allostery in pioneer transcription factor binding.  
 <u>Cheng Tan</u>, and Shoji Takada.  
 _Proceedings of the National Academy of Sciences, U.S.A._ **117**, 34 (2020): 20586-20596. [<i class="fas fa-link"></i>](https://www.pnas.org/content/117/34/20586)
 
-3. Dynamic coupling among protein binding, sliding, and DNA bending revealed by molecular dynamics.  
+4. Dynamic coupling among protein binding, sliding, and DNA bending revealed by molecular dynamics.  
 <u>Cheng Tan</u>, Tsuyoshi Terakawa, and Shoji Takada.  
 _Journal of the American Chemical Society_ **138**, 27 (2016): 8512-8522. [<i class="fas fa-link"></i>](https://pubs.acs.org/doi/10.1021/jacs.6b03729)
 
 ### Other Journal Articles
 
-4. Micelle-like clusters in phase-separated Nanog condensates: A molecular simulation study.  
+5. GENESIS 2.1: High-Performance Molecular Dynamics Software for Enhanced Sampling and Free-Energy Calculations for Atomistic, Coarse-Grained, and Quantum Mechanics/Molecular Mechanics Models.  
+Jaewoon Jung,$^\star$ Kiyoshi Yagi,$^\star$ <u>Cheng Tan</u>,$^\star$ Hiraku Oshima, Takaharu Mori, Isseki Yu, Yasuhiro Matsunaga, Chigusa Kobayashi, Shingo Ito, Diego Ugarte La Torre, Yuji Sugita  
+_The Journal of Physical Chemistry B_ **128**, 25 (2024): 6028-6048. [<i class="fas fa-link"></i>](https://doi.org/10.1021/acs.jpcb.4c02096) ($\star$ co-first author)
+
+6. Micelle-like clusters in phase-separated Nanog condensates: A molecular simulation study.  
 Azuki Mizutani, <u>Cheng Tan</u>, Yuji Sugita, and Shoji Takada.  
 _PLoS Computational Biology_ **19**, 7 (2023): e1011321. [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1011321)
 
