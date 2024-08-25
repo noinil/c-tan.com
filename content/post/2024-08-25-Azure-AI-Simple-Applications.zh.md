@@ -218,7 +218,7 @@ except HttpResponseError as exception:
 1. 在 Alfred 的 Workflows 界面中添加一个新的 "Blank Workflow";
 2. 在 workflow 的空白面板中添加一个 "Universal Action", 设置为仅为 text 工作；
 3. 在 workflow 的空白面板中添加一个 script, 这里我使用 zsh 脚本， 因为 python 需要使用特定 venv 下的程序， 设置起来比较麻烦。 脚本内容如下：
-```python
+```zsh
 query=$1
 
 $PYTHON_VENV_PATH/bin/python $PY_SCRIPT/test_translation_alfred.py "$query"

@@ -229,7 +229,7 @@ Next, let's leave the system interactions to Alfred:
 - In the Alfred "Workflows" interface, add a new "Blank Workflow".
 - In the workflow panel, add a "Universal Action" and set it to work only with text.
 - In the workflow panel, add a script.  I'm using a "zsh" script here because running Python requires setting up a specific virtual environment, which is more complicated.  The script content is as follows:
-```python
+```zsh
 query=$1
 
 $PYTHON_VENV_PATH/bin/python $PY_SCRIPT/test_translation_alfred.py "$query"
