@@ -18,6 +18,7 @@ disqusShortname = "ctan"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
+pygmentsStyle = "monokai"
 
 
 [markup]
