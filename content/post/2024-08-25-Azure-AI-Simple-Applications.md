@@ -127,7 +127,7 @@ def recognized_callback(evt):
     if evt.result.reason == speechsdk.ResultReason.RecognizedSpeech:
         # print(f"Recognition:  {evt.result.text}")
         recognized_text = evt.result.text
-        print(f"识别结果: {recognized_text}")
+        print(f"Recognition result: {recognized_text}")
 
         # translation
         try:
@@ -142,7 +142,7 @@ def recognized_callback(evt):
             print(f"Translation error: {str(e)}")
 
     elif evt.result.reason == speechsdk.ResultReason.NoMatch:
-        print("未能识别任何内容。")
+        print("Cannot detect anything")
 
 # event handling: cancel or error
 def canceled_callback(evt):
@@ -167,12 +167,6 @@ except KeyboardInterrupt:
     print("Recognition stopped")
     speech_recognizer.stop_continuous_recognition()
 ```
-
-目前有这样一些瑕疵：
-- 我创建 `speech_recognizer` 的方式导致同一个翻译服务只在最开始的时候尝试确认录入语音的语言， 这在接下来的一系列语音识别中是不会变化的。  比如第一句接收到的话如果是 "こんにちは" 的话， 那么接下来听到的所有话都会被尝试翻译为日语。
-- 我在 ACS Fall (Colorado convention center) 的会场中试了一下收录演讲者们的声音， 但是嘈杂的空调声常常让我的电脑识别不到任何内容。 
-- 即便收音效果良好， 识别出来的内容也很受演讲者状态的影响， 如果碰到口吃或者紧张不连贯等情况， 就会得到出乎意料的结果。
-
 
 There are currently a few issues:
 - The way I create the `speech_recognizer` causes the translation service to only determine the input language at the very beginning, and this doesn't change for the subsequent speech recognition.  For example, if the first phrase detected is 'こんにちは', all following inputs will be treated as Japanese for recognition and translation.
