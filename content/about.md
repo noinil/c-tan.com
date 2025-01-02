@@ -22,8 +22,9 @@ In addition to my professional work, I enjoy participating in non-contact sports
 
 ## Work Experience
 
+- Research Scientist, 2024/04-current, _RIKEN Center for Computational Science_
 - Associate Professor, 2023/04-current, _University of Hyogo_ (cross-appointment)
-- Postdoctoral Researcher, 2019/05-current, _RIKEN_
+- Postdoctoral Researcher, 2019/05-2024/03, _RIKEN Center for Computational Science_
 - Postdoctoral Researcher, 2014/06-2019/04, _Kyoto University_
 
 
