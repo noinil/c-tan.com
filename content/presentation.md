@@ -21,6 +21,22 @@ Tue, Jun 25, 2024
 _The 24th Annual Meeting of the Protein Science Society of Japan_, Sapporo, Japan  
 Thr, Jun 13, 2024
 
+- <i class="fas fa-comment"></i> Developments and Applications in Multiscale Molecular Dynamics Simulations for Biomolecular Condensation Using GENESIS.  
+_HPCI Consortium Computational Science Forum_, Online  
+Fri, Mar 22, 2024
+
+- <i class="fas fa-image"></i> Multiscale molecular dynamics simulations of biomolecular condensation using GENESIS.  
+_Material DX Progress Report Meeting_, Wako, Japan  
+Mon, Mar 04, 2024
+
+- <i class="fas fa-image"></i> Regulation of Biomolecular Condensation Studied with Large-Scale Coarse-Grained Molecular Dynamics Using GENESIS.  
+_The BIE Workshop 2024_, Wako, Japan  
+Thr, Feb 01, 2024
+
+- <i class="fas fa-image"></i> Large Scale Molecular Dynamics Simulations of TDP-43 and Hero11 Protein Condensates.  
+_The 6th R-CCS International Symposium_, Kobe, Japan  
+Mon, Jan 29, 2024
+
 - <i class="fas fa-comment"></i> Regulation of Biomolecular Condensation Studied with Large-Scale Coarse-Grained Molecular Dynamics Simulations in GENESIS.  
 _The 61st Annual Meeting of the Biophysical Society of Japan_ (**Symposium: The forefront of biophysical research of liquid-liquid phase separation**), Nagoya, Japan  
 Wed, Nov 15, 2023

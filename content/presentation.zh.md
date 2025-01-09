@@ -21,6 +21,22 @@ _IUPAB 2024_, 京都, 日本
 _第 24 回 日本蛋白质科学会年会_, 札幌, 日本  
 2024 年 6 月 13 日
 
+- <i class="fas fa-comment"></i> Developments and Applications in Multiscale Molecular Dynamics Simulations for Biomolecular Condensation Using GENESIS.  
+_HPCI 计算科学论坛_, 在线  
+2024 年 3 月 22 日
+
+- <i class="fas fa-image"></i> Multiscale molecular dynamics simulations of biomolecular condensation using GENESIS.  
+_Material DX 项目进展报告会_, 和光,  日本  
+2024 年 3 月 4 日
+
+- <i class="fas fa-image"></i> Regulation of Biomolecular Condensation Studied with Large-Scale Coarse-Grained Molecular Dynamics Using GENESIS.  
+_BIE 会议 2024_, 和光,  日本  
+2024 年 2 月 1 日
+
+- <i class="fas fa-image"></i> Large Scale Molecular Dynamics Simulations of TDP-43 and Hero11 Protein Condensates.  
+_第 6 回 R-CCS 国际研讨会_, 神户,  日本  
+2024 年 1 月 29 日
+
 - <i class="fas fa-comment"></i> Regulation of Biomolecular Condensation Studied with Large-Scale Coarse-Grained Molecular Dynamics Simulations in GENESIS.  
 _第 61 回 日本生物物理学会年会_, 名古屋, 日本  
 2023 年 11 月 15 日
