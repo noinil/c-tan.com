@@ -5,6 +5,13 @@ description = "谭丞的近期学术报告。"
 date = "2023-11-27"
 +++
 
+- <i class="fas fa-comment"></i> Large-scale Molecular Dynamics Simulations of Multicomponent Biomolecular Condensation Reveals a Regulatory Mechanism by Highly Charged Proteins.  
+_第 38 回分子シミュレーション討論会_, 姬路, 日本  
+2024 年 12 月 4 日
+
+- <i class="fas fa-image"></i> Regulating Biomolecular Condensation: Insights from Multi-Scale Simulations of Hero11 and TDP43 Interactions.  
+_ACS Fall 2024_, 丹佛, 米国   
+2024 年 8 月 20 日
 
 - <i class="fas fa-image"></i> Highly Charged Proteins and Their Repulsive Interactions in Regulation of Biomolecular Condensation.  
 _IUPAB 2024_, 京都, 日本  
