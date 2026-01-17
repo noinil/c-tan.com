@@ -7,11 +7,11 @@ date = "2023-03-16"
 
 ## Journal Articles
 
-### Featured Journal Articles
+### Selected Publications
 
 1. GENESIS CGDYN: large-scale coarse-grained MD simulation with dynamic load balancing for heterogeneous biomolecular systems.  
 Jaewoon Jung,$^{\star}$ <u>Cheng Tan</u>,$^{\star}$ and Yuji Sugita.  
-Nature Communications 15, 1 (2024): 3370. [<i class="fas fa-link"></i>](https://doi.org/10.1038/s41467-024-47654-1) ($\star$ co-first author)
+_Nature Communications_ 15, 1 (2024): 3370. [<i class="fas fa-link"></i>](https://doi.org/10.1038/s41467-024-47654-1) ($\star$ co-first author)
 
 2. Highly charged proteins and their repulsive interactions antagonize biomolecular condensation.  
 <u>Cheng Tan</u>, Ai Niitsu, and Yuji Sugita.  
@@ -25,7 +25,7 @@ _Proceedings of the National Academy of Sciences, U.S.A._ **117**, 34 (2020): 20
 <u>Cheng Tan</u>, Tsuyoshi Terakawa, and Shoji Takada.  
 _Journal of the American Chemical Society_ **138**, 27 (2016): 8512-8522. [<i class="fas fa-link"></i>](https://pubs.acs.org/doi/10.1021/jacs.6b03729)
 
-### Other Journal Articles
+### Other Papers
 
 5. GENESIS 2.1: High-Performance Molecular Dynamics Software for Enhanced Sampling and Free-Energy Calculations for Atomistic, Coarse-Grained, and Quantum Mechanics/Molecular Mechanics Models.  
 Jaewoon Jung,$^\star$ Kiyoshi Yagi,$^\star$ <u>Cheng Tan</u>,$^\star$ Hiraku Oshima, Takaharu Mori, Isseki Yu, Yasuhiro Matsunaga, Chigusa Kobayashi, Shingo Ito, Diego Ugarte La Torre, Yuji Sugita  

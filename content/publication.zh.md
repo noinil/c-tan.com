@@ -11,7 +11,7 @@ date = "2023-03-16"
 
 1. GENESIS CGDYN: large-scale coarse-grained MD simulation with dynamic load balancing for heterogeneous biomolecular systems.  
 Jaewoon Jung,$^{\star}$ <u>Cheng Tan</u>,$^{\star}$ and Yuji Sugita.  
-Nature Communications 15, 1 (2024): 3370. [<i class="fas fa-link"></i>](https://doi.org/10.1038/s41467-024-47654-1) ($\star$ co-first author)
+_Nature Communications_ 15, 1 (2024): 3370. [<i class="fas fa-link"></i>](https://doi.org/10.1038/s41467-024-47654-1) ($\star$ co-first author)
 
 2. Highly charged proteins and their repulsive interactions antagonize biomolecular condensation.  
 <u>Cheng Tan</u>, Ai Niitsu, and Yuji Sugita.  
