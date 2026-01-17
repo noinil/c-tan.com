@@ -1,6 +1,6 @@
 # PaperMod Configuration
 author = "Cheng Tan"
-comments = true
+comments = false
 
 [assets]
     favicon = "favicons/favicon-32x32.png"
