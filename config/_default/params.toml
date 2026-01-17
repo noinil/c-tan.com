@@ -47,10 +47,7 @@ UseHugoToc = true
     name = "email"
     url = "mailto:ctan@c-tan.com"
 
-[editPost]
-    URL = "https://github.com/noinil/new.c-tan.com/tree/master/content"
-    Text = "Suggest Changes" # edit text
-    appendFilePath = true # to append file path to Edit link
+
 
 # Analytics
 # [analytics.google]
