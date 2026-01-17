@@ -1,6 +1,11 @@
 # PaperMod Configuration
 author = "Cheng Tan"
 comments = true
+
+[assets]
+    favicon = "favicons/favicon-32x32.png"
+    apple_touch_icon = "favicons/apple-touch-icon.png"
+
 description = "Website of Cheng Tan"
 keywords = ["Research", "Bioinformatics", "LaTeX"]
 images = ["images/site-feature-image.png"]
