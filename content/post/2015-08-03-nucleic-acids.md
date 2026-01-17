@@ -2,7 +2,7 @@
 title = "Diagram of Nucleic Acids"
 description = "A chart of basic nucleic acids."
 date = "2015-08-03T10:01:00"
-categories = ["charts"]
+categories = ["cheatsheet"]
 tags = ["biophysics", "inkscape"]
 
 slug = "na-chart"

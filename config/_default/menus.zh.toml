@@ -1,4 +1,4 @@
-  [[main]]
+[[main]]
   name = "主页"
   identifier = "home"
   weight = 100
@@ -15,6 +15,12 @@
   weight = 250
   identifier = "archives"
   url = "/zh/archives/"
+
+  [[main]]
+  name = "分类"
+  weight = 270
+  identifier = "categories"
+  url = "/zh/categories/"
 
   [[main]]
   name = "论文"
@@ -39,5 +45,3 @@
   weight = 600
   identifier = "search"
   url = "/zh/search/"
-
-

@@ -2,7 +2,7 @@
 title = "Chart of Amino Acids"
 description = "A table of amino acids."
 date = "2015-07-30T20:01:00"
-categories = ["charts"]
+categories = ["cheatsheet"]
 tags = ["inkscape", "biophysics"]
 
 slug = "aa-chart"

@@ -3,7 +3,7 @@ title = "LaTeX 数学速查表 (cheat sheet)"
 description = "使用 LaTeX 制作的 LaTeX 数学 cheat sheet"
 date = "2017-07-25T12:20:00"
 lastmod = "2018-01-13T21:40:00"
-categories = ["technique"]
+categories = ["cheatsheet"]
 tags = ["LaTeX"]
 
 slug = "latex-math-cheat sheet"

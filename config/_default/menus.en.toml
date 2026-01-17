@@ -1,4 +1,4 @@
-  [[main]]
+[[main]]
   name = "Home"
   identifier = "home"
   weight = 100
@@ -15,6 +15,12 @@
   weight = 250
   identifier = "archives"
   url = "/archives/"
+
+  [[main]]
+  name = "Categories"
+  weight = 270
+  identifier = "categories"
+  url = "/categories/"
 
   [[main]]
   name = "Publications"
@@ -39,5 +45,3 @@
   weight = 600
   identifier = "search"
   url = "/search/"
-
-
