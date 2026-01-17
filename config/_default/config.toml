@@ -15,7 +15,7 @@ disqusShortname = "ctan"
 #googleAnalytics = "UA-123-45"
 
 # Syntax highlighting
-pygmentsUseClasses = true
+pygmentsUseClasses = false
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsStyle = "monokai"
