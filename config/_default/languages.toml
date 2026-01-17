@@ -1,13 +1,19 @@
 [en]
-title = "double space"
-weight = 1
-LanguageName = "EN"
-# contentDir = "content/english"
+    languageName = "English"
+    weight = 1
+    title = "double space"
+    [en.params]
+        profileMode.enabled = true
+        profileMode.title = "Cheng Tan (谭丞)"
+        profileMode.subtitle = "Researcher | Bioinformatics | LaTeX Enthusiast"
+        description = "Website of Cheng Tan"
 
 [zh]
-title = "句末双空格"
-description = """
-谭丞的个人网站
-"""
-weight = 2
-LanguageName = "CN"
+    languageName = "简体中文"
+    weight = 2
+    title = "句末双空格"
+    [zh.params]
+        profileMode.enabled = true
+        profileMode.title = "谭丞 (Cheng Tan)"
+        profileMode.subtitle = "研究员 | 生物信息学 | LaTeX 爱好者"
+        description = "谭丞的个人网站"
