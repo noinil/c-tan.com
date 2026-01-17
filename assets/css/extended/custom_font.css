@@ -17,9 +17,18 @@ body {
     color: #333;      /* 稍微柔和一点的黑色，不是纯黑 */
 }
 
-/* 暗色模式下的字体颜色微调 */
+/* 提高首页副标题的辨识度 (只针对副标题，不影响按钮) */
+.profile .profile_inner > span {
+    color: #333; /* 浅色模式下的深黑色 */
+    font-weight: 500; /* 稍微加粗一点点，更清晰 */
+}
+
+/* 暗色模式下的颜色微调 */
 @media (prefers-color-scheme: dark) {
     body {
         color: #e0e0e0;
+    }
+    .profile .profile_inner > span {
+        color: #ccc;
     }
 }
