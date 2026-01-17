@@ -10,8 +10,3 @@ body {
 code, kbd, pre, samp {
     font-family: "Menlo", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace;
 }
-
-/* 让段落两端对齐，看起来更整齐 */
-p {
-    text-align: justify;
-}
