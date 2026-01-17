@@ -11,6 +11,12 @@
   url = "/zh/post/"
 
   [[main]]
+  name = "归档"
+  weight = 250
+  identifier = "archives"
+  url = "/zh/archives/"
+
+  [[main]]
   name = "论文"
   weight = 300
   identifier = "publication"
@@ -27,6 +33,12 @@
   weight = 500
   identifier = "about"
   url = "/zh/about/"
+
+  [[main]]
+  name = "搜索"
+  weight = 600
+  identifier = "search"
+  url = "/zh/search/"
 
   [[footer]]
   name = "说明"

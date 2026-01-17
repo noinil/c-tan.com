@@ -11,6 +11,12 @@
   url = "/post/"
 
   [[main]]
+  name = "Archive"
+  weight = 250
+  identifier = "archives"
+  url = "/archives/"
+
+  [[main]]
   name = "Publications"
   weight = 300
   identifier = "publication"
@@ -27,6 +33,12 @@
   weight = 500
   identifier = "about"
   url = "/about/"
+
+  [[main]]
+  name = "Search"
+  weight = 600
+  identifier = "search"
+  url = "/search/"
 
   [[footer]]
   name = "imprint"
