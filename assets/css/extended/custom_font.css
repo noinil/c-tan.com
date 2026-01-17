@@ -19,8 +19,15 @@ body {
 
 /* 提高首页副标题的辨识度 (只针对副标题，不影响按钮) */
 .profile .profile_inner > span {
-    color: #333; /* 浅色模式下的深黑色 */
-    font-weight: 500; /* 稍微加粗一点点，更清晰 */
+    color: #333 !important; /* 强制覆盖主题默认样式 */
+    font-weight: 500 !important; 
+}
+
+/* 提高文章列表摘要和页面描述的辨识度 */
+.post-description,
+.post-content .post-summary,
+.entry-content {
+    color: #222; /* 浅色模式：更深的颜色，对比度更高 */
 }
 
 /* 暗色模式下的颜色微调 */
@@ -30,5 +37,10 @@ body {
     }
     .profile .profile_inner > span {
         color: #ccc;
+    }
+    .post-description,
+    .post-content .post-summary,
+    .entry-content {
+        color: #aaa; /* 深色模式：柔和的浅灰色 */
     }
 }
