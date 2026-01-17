@@ -40,8 +40,4 @@
   identifier = "search"
   url = "/zh/search/"
 
-  [[footer]]
-  name = "说明"
-  weight = 1
-  identifier = "imprint"
-  url = "/zh/imprint/"
+

@@ -40,8 +40,4 @@
   identifier = "search"
   url = "/search/"
 
-  [[footer]]
-  name = "imprint"
-  weight = 1
-  identifier = "imprint"
-  url = "/imprint/"
+

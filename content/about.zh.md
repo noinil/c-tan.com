@@ -1,7 +1,7 @@
 +++
-title = "关于"
-description = "谭丞的个人信息"
-date = "2023-03-16"
+title = "关于我"
+showToc = false
+date = "2016-07-28"
 aliases = ["contact"]
 author = "谭丞"
 +++

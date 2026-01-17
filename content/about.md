@@ -1,7 +1,7 @@
 +++
 title = "About"
-description = "Cheng Tan's resume"
-date = "2023-03-16"
+showToc = false
+date = "2016-07-28"
 aliases = ["contact"]
 author = "Cheng Tan"
 +++

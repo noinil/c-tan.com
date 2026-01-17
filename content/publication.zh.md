@@ -1,5 +1,6 @@
 +++
 title = "学术著作"
+showToc = false
 author = "谭丞"
 description = "谭丞的学术论文列表"
 date = "2023-03-16"

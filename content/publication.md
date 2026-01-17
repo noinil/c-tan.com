@@ -1,5 +1,6 @@
 +++
 title = "Publication List"
+showToc = false
 author = "Cheng Tan"
 description = "Cheng Tan's recent papers."
 date = "2023-03-16"
