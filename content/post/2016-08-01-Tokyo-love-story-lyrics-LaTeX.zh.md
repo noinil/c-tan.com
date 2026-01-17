@@ -19,20 +19,15 @@ isCJKLanguage = true
 在这篇文章里我展示一个简单的实例， 是我一个晚上的一点微小的成果。
 
 
-<br />
 ## 包
----
 
 使用到三个包：
 
-- [`luatexja`](http://www.luatex.org/): 这个是在 `LuaTeX` 中排版日文的基本包
+- `luatexja`: 这个是在 `LuaTeX` 中排版日文的基本包
 - `luatexja-fontspec`: 可以方便地设置字体 （顺便也包含一下中文字体设置）
-- [`pxrubrica`](https://www.ctan.org/tex-archive/language/japanese/pxrubrica):
-  这个神奇的包可以实现给漢字加上假名注音
+- `pxrubrica` 这个神奇的包可以实现给漢字加上假名注音
   
-<br />
 ## 示例
----
 
 这个例子中展示的是日语歌曲 "ラブ・ストーリーは突然に" (东京爱情故事的主题曲) 和
 它的中文翻译。  我使用了表格来让它们看起来更整齐。

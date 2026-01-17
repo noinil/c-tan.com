@@ -4,6 +4,7 @@ description = "第一次听说这个语言然而立刻放不下手。"
 date = "2019-01-31T21:31:00"
 categories = ["technique"]
 tags = ["brainfuck"]
+showToc = false
 
 slug = "brainfuck-first"
 summary = "很少有这样的语言， 写 hello world 都让人停不下来。"

@@ -13,7 +13,7 @@ After trying all kinds of ways to taking notes for some years, at the beginning 
 
 Since it is for personal use, and I hope my layout to be a unique design, I will not release the source code.
 
-### Acknowledgements
+## Acknowledgements
 
 I learned a lot from this project: [nexus.sty](https://github.com/alexisflesch/nexus)
 

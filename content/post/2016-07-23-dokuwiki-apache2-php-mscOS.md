@@ -57,7 +57,6 @@ The first and the last differences enable using virtual hosts.  The second one
 turn php on.  The third modification gave me the authority to make changes to
 local file system directly from inside Dokuwiki.
     
-<br />
 ### Apache virtual hosts
 
 I created two new virtual hosts other than the default one.
@@ -111,7 +110,6 @@ As described in `/etc/apache2/extra/httpd-vhosts.conf`:
 > ServerName or ServerAlias in any <VirtualHost> block.
 
 
-<br />
 ## Install Dokuwiki
 
 I forked dokuwiki on [Github](https://github.com/splitbrain/dokuwiki), then

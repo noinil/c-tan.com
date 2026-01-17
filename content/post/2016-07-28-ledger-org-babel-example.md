@@ -20,9 +20,7 @@ As usual, reading manual is painful.  Thus here I tried to give a very simple
 example demonstrating practically how to make use of the very basic functions of
 ledger within org-mode.
 
-<br />
 ## Step 1. Enable ledger support in org-mode 
----
 
 `Ledger` support in org-mode is provided by `org-babel`.  To enable it, simply
 add the following code to the configuration file:
@@ -36,18 +34,14 @@ add the following code to the configuration file:
                             (yyy . t)))
 ```
                                 
-<br />
 ## Step 2. Create a file for the finance logs
----
 
 So far I kept all my financial reports in one org file.  Possibly after years of
 logging, the file gets clumsy, then it's time to archive/refile or split it into
 separate files.
 
 
-<br />
 ## Step 3. Opening Balances
----
 
 Well, I have to say the "opening balance" is one of the most complicated
 concepts for anyone who is new to the so-called "double entry accounting
@@ -71,9 +65,7 @@ Create a block describing the initialization of our accounting:
     
 As shown in the above list, we can use different currencies.
 
-<br />
 ## Step 4. Add income
----
 
 Great!  It's time to add some money to our account.  Suppose we receive salary
 from the employer, which in my case is the university:
@@ -91,9 +83,7 @@ Again, the `Income:Salary` account is actually a pseudo account, in which the
 money value is always negative.
 
    
-<br />
 ## Step 5. Add expenses
----
 
 Now let's spend some money!
 
@@ -143,9 +133,7 @@ We can track money transfer in the same block as expenses.
 This means we withdraw some cash from our bank account and put them into wallet.
 
 
-<br />
 ## Step 6. Statistics
----
 
 Let's have a look at our balance:
 
@@ -187,9 +175,7 @@ To ask Emacs to calculate the balance, simply press <kbd>C-c C-c</kbd>, or
 ```
     
     
-<br />
 ## Tips
----
 
 ### Keybindings
 
@@ -229,5 +215,3 @@ card (see the first record).  Then the loans were exchanged from JPY into USD
 and CNY, provided the exchange rates.  In the final step I payed back the money
 using my Chinese bank account.
 
----
-<br />

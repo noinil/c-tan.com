@@ -2,6 +2,7 @@
 title = "Pocket Cube: Corners of the Last Layer"
 description = "CLL algorithms for Pocket Cube."
 date = "2015-08-16T17:15:00"
+showToc = false
 categories = ["speedsolving"]
 tags = ["cube", "inkscape"]
 

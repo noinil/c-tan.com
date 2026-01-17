@@ -20,22 +20,17 @@ totally same as normal $\LaTeX$.  Here I show an example of writing Japanese and
 Chinese in one document with `LuaTeX`.
 
 
-<br />
 ## Packages
----
 
 I used three packages for Japanese (and Chinese):
 
-- [`luatexja`](http://www.luatex.org/): the basic package for ja supports;
+- `luatexja`: the basic package for ja supports;
 - `luatexja-fontspec`: the package that enables specific font settings (also
   works for Chinese language);
-- [`pxrubrica`](https://www.ctan.org/tex-archive/language/japanese/pxrubrica):
-  the package that provides the function to add furigana (ふりがな) above to
+- `pxrubrica`: the package that provides the function to add furigana (ふりがな) above to
   kanji (漢字).
   
-<br />
-## Sample Document
----
+## Example Document
 
 In this document I tried to translate a Japanese song "ラブ・ストーリーは突然に"
 into Chinese.  This song was used as the theme song for the famous drama "Tokyo

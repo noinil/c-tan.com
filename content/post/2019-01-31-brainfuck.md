@@ -2,6 +2,7 @@
 title = "I Found Something Funny"
 description = "I found a new language that can break my head."
 date = "2019-01-31T21:31:00"
+showToc = false
 categories = ["technique"]
 tags = ["brainfuck"]
 

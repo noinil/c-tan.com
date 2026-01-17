@@ -12,7 +12,6 @@ summary = "An example of using git-svn to organize code.  Specially for git-love
 `git-svn` - Bidirectional operation between a Subversion repository and Git.[^1]
 
 ## Nonsense
----
 
 Luckily, when I began to consider version control for my poor codes, there had
 already been Git and Github.  Nearly three years ago, I used Git to organize my
@@ -26,13 +25,10 @@ from `git diff`, manually applied them to the SVN repository and then `svn commi
 
 Git provided `git svn` to control changes between Git and Subversion.
 
-<br />
 ## Description
----
 
 Here I used CafeMol as an example to show the basic usage of git svn.
 
-<br />
 ### Pull a copy from SVN server
 
 This is the very first step.
@@ -48,7 +44,6 @@ usually just "Medium-Rare".  Besides, `git svn clone -s` will even create git
 branches for the deleted svn branches.  Therefore if you want a clean list every
 time you run `git branch -a`, forget the `-s` option.
 
-<br />
 ### Get a list of `gitignore` from svn repository
 
 Simply run:
@@ -57,7 +52,6 @@ Simply run:
 git svn show-ignore >> .git/info/exclude
 ```
     
-<br />
 ### Basic usage
 
 #### Update to the latest version
@@ -102,7 +96,6 @@ git merge develop
 The main reason to use `rebase` instead of `merge` is to keep simple commit
 history for svn log.
 
-<br />
 ### Caveats
 
 It's always a good habit to make local changes on developing branches first, and

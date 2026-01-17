@@ -10,17 +10,15 @@ summary = "A simple way to use git to organize Pelican websites on VPS."
 +++
 
 
-#### Notice
+**Notice**
 
 The method shown here is almost the same as described in
 [this page](https://www.digitalocean.com/community/tutorials/how-to-deploy-jekyll-blogs-with-git),
 which is a tutorial for deploying Jekyll on DigitalOcean.  I only made very
 minor changes so that it worked for pelican.
 
-<br />
 
 ## About static site generators
----
 
 Pelican is a tool that generates static HTML sites from *reStructuredText* or
 *Markdown* files.[^1] Similar tools are *Jekyll*,[^2] *hugo*,[^3] *hexo*,[^4]
@@ -40,7 +38,6 @@ used.
 
 
 ## Installation
----
 
 Basically, we want the environments be (if possible) exactly the same on VPS and
 local machine.  Although, in my case even the python versions were different.
@@ -66,7 +63,6 @@ this post, and thus will not be discussed here.
 
 
 ## Setting up git on VPS and local machine
----
 
 Basically, I followed
 [this page](https://www.digitalocean.com/community/tutorials/how-to-deploy-jekyll-blogs-with-git)

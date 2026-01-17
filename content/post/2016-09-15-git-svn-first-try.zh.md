@@ -13,7 +13,6 @@ isCJKLanguage = true
 `git-svn` - Bidirectional operation between a Subversion repository and Git.[^1]
 
 ## 写在前面的废话
----
 
 很久以前当我准备开始学习版本控制的时候， 就已经有了 git 与 github， 因此我也少走
 了许多弯路。  甚至在我写博士论文的时候， 全部都用 git 来进行 $\LaTeX$ 文件的管理。
@@ -30,13 +29,10 @@ isCJKLanguage = true
 体系之间。
 
 
-<br />
 ## 概述
----
 
 这里以我操作 CafeMol 的经过为例子， 写下一些简单的 `git svn` 流程。
 
-<br />
 ### 从 svn 服务器获取拷贝
 
 这是第一步：
@@ -52,7 +48,6 @@ svn 分支， 每个分支都可能仅仅只是一些测试性的代码， 根�
 -a` 变成又臭又长的一串红色列表。  至少爱清洁的人是不会这样做的。
 
 
-<br />
 ### 从 svn 设置来创建 `gitignore`
 
 很简单：
@@ -61,7 +56,6 @@ svn 分支， 每个分支都可能仅仅只是一些测试性的代码， 根�
 git svn show-ignore >> .git/info/exclude
 ```
 
-<br />
 ### 简单的流程及命令
 
 #### 从服务器更新
@@ -105,7 +99,6 @@ git merge develop
 
 这里使用 `rebase` 而不用 `merge` 是考虑保持 svn log 的简单线性。
 
-<br />
 ### 注意
 
 简单来说， 每一次 `git svn dcommit` 都会改写 `git commit` 的记录。  因此每次推送
@@ -115,6 +108,5 @@ git merge develop
 
 感觉还是很傻！
 
----
 
 [^1]: https://git-scm.com/docs/git-svn

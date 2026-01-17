@@ -2,7 +2,6 @@
 title = "学术报告"
 showToc = false
 author = "Cheng Tan"
-description = "谭丞的近期学术报告。"
 date = "2023-11-27"
 +++
 
