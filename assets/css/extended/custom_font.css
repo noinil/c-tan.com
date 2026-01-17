@@ -1,8 +1,9 @@
 /* 优雅的宋体/衬线体风格 */
 body {
     font-family: "Georgia", "Times New Roman", "Songti SC", "SimSun", "Source Han Serif SC", "Source Han Serif CN", "Noto Serif SC", "Serif", "serif";
-    /* 稍微增加字重，防止在某些高分屏上宋体显得太细 */
     font-weight: 400; 
+    line-height: 1.7; 
+    font-size: 17px;  
 }
 
 /* 保持代码块为等宽字体 */
@@ -10,37 +11,7 @@ code, kbd, pre, samp {
     font-family: "Menlo", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace;
 }
 
-/* 阅读参数优化 */
-body {
-    line-height: 1.7; /* 稍微增加行高，增加呼吸感 */
-    font-size: 17px;  /* 宋体不需要像楷体那么大，17px 很合适 */
-    color: #333;      /* 稍微柔和一点的黑色，不是纯黑 */
-}
-
-/* 提高首页副标题的辨识度 (只针对副标题，不影响按钮) */
-.profile .profile_inner > span {
-    color: #333 !important; /* 强制覆盖主题默认样式 */
-    font-weight: 500 !important; 
-}
-
-/* 提高文章列表摘要和页面描述的辨识度 */
-.post-description,
-.post-content .post-summary,
-.entry-content {
-    color: #222; /* 浅色模式：更深的颜色，对比度更高 */
-}
-
-/* 暗色模式下的颜色微调 */
-@media (prefers-color-scheme: dark) {
-    body {
-        color: #e0e0e0;
-    }
-    .profile .profile_inner > span {
-        color: #ccc;
-    }
-    .post-description,
-    .post-content .post-summary,
-    .entry-content {
-        color: #aaa; /* 深色模式：柔和的浅灰色 */
-    }
+/* 让段落两端对齐，看起来更整齐 */
+p {
+    text-align: justify;
 }
