@@ -29,7 +29,7 @@
   url = "/zh/presentation/"
 
   [[main]]
-  name = "关于"
+  name = "侧写"
   weight = 500
   identifier = "about"
   url = "/zh/about/"
