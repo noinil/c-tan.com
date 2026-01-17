@@ -1,5 +1,6 @@
 # PaperMod Configuration
 author = "Cheng Tan"
+comments = true
 description = "Website of Cheng Tan"
 keywords = ["Research", "Bioinformatics", "LaTeX"]
 images = ["images/site-feature-image.png"]
