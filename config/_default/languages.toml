@@ -5,7 +5,7 @@
     [en.params]
         profileMode.enabled = true
         profileMode.title = "Cheng Tan (谭丞)"
-        profileMode.subtitle = "orchestrating biomolecules in silico, drifting in life via adagio."
+        profileMode.subtitle = "High Performance Computing, Low Power Living."
         description = "Website of Cheng Tan"
 
 [zh]
@@ -15,5 +15,5 @@
     [zh.params]
         profileMode.enabled = true
         profileMode.title = "谭丞 (Cheng Tan)"
-        profileMode.subtitle = "硅基芯片上指挥分子运动，碳基生活中演绎随性变奏。"
+        profileMode.subtitle = "高性能计算， 低功耗生活。"
         description = "谭丞的个人网站"
