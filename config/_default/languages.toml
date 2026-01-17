@@ -5,7 +5,7 @@
     [en.params]
         profileMode.enabled = true
         profileMode.title = "Cheng Tan (谭丞)"
-        profileMode.subtitle = "Researcher | Bioinformatics | LaTeX Enthusiast"
+        profileMode.subtitle = "orchestrating biomolecules in silico, drifting in life via adagio."
         description = "Website of Cheng Tan"
 
 [zh]
@@ -15,5 +15,5 @@
     [zh.params]
         profileMode.enabled = true
         profileMode.title = "谭丞 (Cheng Tan)"
-        profileMode.subtitle = "研究员 | 生物信息学 | LaTeX 爱好者"
+        profileMode.subtitle = "硅基芯片上指挥分子运动，碳基生活中演绎随性变奏。"
         description = "谭丞的个人网站"
