@@ -2,7 +2,7 @@
 title = "学术著作"
 showToc = false
 author = "谭丞"
-date = "2023-03-16"
+date = "2026-01-18"
 +++
 
 ## 论文
@@ -11,21 +11,33 @@ date = "2023-03-16"
 
 1. GENESIS CGDYN: large-scale coarse-grained MD simulation with dynamic load balancing for heterogeneous biomolecular systems.  
 Jaewoon Jung,$^{\star}$ <u>Cheng Tan</u>,$^{\star}$ and Yuji Sugita.  
-_Nature Communications_ 15, 1 (2024): 3370. [<i class="fas fa-link"></i>](https://doi.org/10.1038/s41467-024-47654-1) ($\star$ co-first author)
+_Nature Communications_ **15**, 1 (2024): 3370. [<i class="fas fa-link"></i>](https://doi.org/10.1038/s41467-024-47654-1) ($\star$ co-first author)
 
 2. Highly charged proteins and their repulsive interactions antagonize biomolecular condensation.  
 <u>Cheng Tan</u>, Ai Niitsu, and Yuji Sugita.  
 _JACS Au_ **3**, 3 (2023): 834-848. [<i class="fas fa-link"></i>](https://doi.org/10.1021/jacsau.2c00646)
 
-3. Nucleosome allostery in pioneer transcription factor binding.  
+3. Implementation of residue-level coarse-grained models in GENESIS for large-scale molecular dynamics simulations.  
+<u>Cheng Tan</u>, Jaewoon Jung, Chigusa Kobayashi, Diego Ugarte La Torre, Shoji Takada, and Yuji Sugita.  
+_PLoS Computational Biology_ **18**, 4 (2022): e1009578. [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1009578)
+
+4. Nucleosome allostery in pioneer transcription factor binding.  
 <u>Cheng Tan</u>, and Shoji Takada.  
 _Proceedings of the National Academy of Sciences, U.S.A._ **117**, 34 (2020): 20586-20596. [<i class="fas fa-link"></i>](https://www.pnas.org/content/117/34/20586)
 
-4. Dynamic coupling among protein binding, sliding, and DNA bending revealed by molecular dynamics.  
+5. Dynamic coupling among protein binding, sliding, and DNA bending revealed by molecular dynamics.  
 <u>Cheng Tan</u>, Tsuyoshi Terakawa, and Shoji Takada.  
 _Journal of the American Chemical Society_ **138**, 27 (2016): 8512-8522. [<i class="fas fa-link"></i>](https://pubs.acs.org/doi/10.1021/jacs.6b03729)
 
 ### 其他
+
+6. _In silico_ nanoscope to study the interplay of genome organization and transcription regulation.  
+Soundhararajan Gopi, Giovanni B Brandani, <u>Cheng Tan</u>, Jaewoon Jung, Chenyang Gu, Azuki Mizutani, Hiroshi Ochiai, Yuji Sugita, Shoji Takada  
+_Nucleic Acids Research_, **53**, 6 (2025): gkaf189. [<i class="fas fa-link"></i>](https://doi.org/10.1093/nar/gkaf189)
+
+7. Heterogeneous condensates of transcription factors in embryonic stem cells: Molecular simulations.  
+Azuki Mizutani, <u>Cheng Tan</u>, Yuji Sugita, and Shoji Takada.  
+_Biophysical Journal_, **124**,10 (2025): 1587-1598. [<i class="fas fa-link"></i>](https://doi.org/10.1016/j.bpj.2025.04.001)
 
 5. GENESIS 2.1: High-Performance Molecular Dynamics Software for Enhanced Sampling and Free-Energy Calculations for Atomistic, Coarse-Grained, and Quantum Mechanics/Molecular Mechanics Models.  
 Jaewoon Jung,$^\star$ Kiyoshi Yagi,$^\star$ <u>Cheng Tan</u>,$^\star$ Hiraku Oshima, Takaharu Mori, Isseki Yu, Yasuhiro Matsunaga, Chigusa Kobayashi, Shingo Ito, Diego Ugarte La Torre, Yuji Sugita  
@@ -39,10 +51,6 @@ _PLoS Computational Biology_ **19**, 7 (2023): e1011321. [<i class="fas fa-link"
 Xingyue Guan,$^{\star}$ <u>Cheng Tan</u>,$^{\star}$ Wenfei Li, Wei Wang, and D. Thirumalai.  
 _PLoS Computational Biology_ **18**, 6 (2022): e1010195. [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1010195) (共同一作)
 
-3. Implementation of residue-level coarse-grained models in GENESIS for large-scale molecular dynamics simulations.  
-<u>Cheng Tan</u>, Jaewoon Jung, Chigusa Kobayashi, Diego Ugarte La Torre, Shoji Takada, and Yuji Sugita.  
-_PLoS Computational Biology_ **18**, 4 (2022): e1009578. [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1009578)
-
 4. Testing mechanisms of DNA sliding by architectural DNA-binding proteins: dynamics of single wild-type and mutant protein molecules in vitro and in vivo.  
 Kiyoto Kamagata, Yuji Itoh, <u>Cheng Tan</u>, Eriko Mano, Yining Wu, Sridhar Mandali, Shoji Takada, and Reid C. Johnson.  
 _Nucleic Acids Research_ **49**, 15 (2021): 8642-8664. [<i class="fas fa-link"></i>](https://doi.org/10.1093/nar/gkab658)
@@ -52,7 +60,7 @@ Giovanni B. Brandani, <u>Cheng Tan</u>, and Shoji Takada.
 _PLoS Computational Biology_ **17**, 7 (2021): e1009253. [<i class="fas fa-link"></i>](https://doi.org/10.1371/journal.pcbi.1009253)
 
 6. New parallel computing algorithm of molecular dynamics for extremely huge scale biological systems.  
-Jaewoon Jung, Chigusa Kobayashi, Kento Kasahara, <u>Cheng Tan</u>, Akiyoshi Kuroda, Kazuo Minami, Shigeru Ishiduki et al.  
+Jaewoon Jung, Chigusa Kobayashi, Kento Kasahara, <u>Cheng Tan</u>, *et al.*  
 _Journal of Computational Chemistry_ **42**, 4 (2021): 231-241. [<i class="fas fa-link"></i>](https://doi.org/10.1002/jcc.26450)
 
 7. The HMGB chromatin protein Nhp6A can bypass obstacles when traveling on DNA.  
