@@ -17,6 +17,7 @@ showToc = true
 TocOpen = false
 showReadingTime = true
 showShareButtons = true
+shareButtons = ["twitter", "reddit", "telegram"]
 showPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
