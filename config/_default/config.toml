@@ -8,17 +8,8 @@ summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 
-
-
 # Google Analytics
 #googleAnalytics = "UA-123-45"
-
-# Syntax highlighting
-pygmentsUseClasses = false
-pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
-pygmentsStyle = "monokai"
-
 
 [outputs]
     home = ["HTML", "RSS", "JSON"]
@@ -26,4 +17,11 @@ pygmentsStyle = "monokai"
 [markup]
     [markup.goldmark]
         [markup.goldmark.renderer]
-        unsafe=true
+        unsafe = true
+
+    [markup.highlight]
+        codeFences = true
+        guessSyntax = true
+        lineNos = false
+        noClasses = false # 恢复为 PaperMod 推荐的 class 模式
+        style = "monokai"
