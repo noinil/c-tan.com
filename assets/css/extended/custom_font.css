@@ -15,21 +15,26 @@ code, kbd, pre, samp {
    链接样式定制 (Link Customization)
    ========================================= */
 
-/* 强制去掉下划线（包括 text-decoration 和可能存在的 box-shadow） */
+/* 强制去掉下划线，设置青色 (针对正文、摘要和元数据链接) */
 .post-content a, 
-.entry-content a {
+.entry-content a,
+.post-meta a,
+.i18n_list a {
     text-decoration: none !important;
     box-shadow: none !important; 
     border-bottom: none !important; 
     
-    color: #006d6d; /* 浅色模式：更深邃的青色 */
+    color: #006d6d; /* 浅色模式：深青色 */
     transition: color 0.3s ease;
 }
 
 /* 鼠标悬停时 */
 .post-content a:hover,
-.entry-content a:hover {
-    color: #004d40; /* 悬停时更深 */
+.entry-content a:hover,
+.post-meta a:hover,
+.i18n_list a:hover {
+    color: #004d40; 
+    text-decoration: underline !important; 
 }
 
 /* =========================================
@@ -37,19 +42,25 @@ code, kbd, pre, samp {
    ========================================= */
 
 body.dark .post-content a,
-body.dark .entry-content a {
-    color: #00acc1; /* 深色模式：稍深的青色 */
+body.dark .entry-content a,
+body.dark .post-meta a,
+body.dark .i18n_list a {
+    color: #00acc1; /* 深色模式：青色 */
 }
 
 body.dark .post-content a:hover,
-body.dark .entry-content a:hover {
-    color: #4dd0e1; /* 悬停时稍微变亮 */
+body.dark .entry-content a:hover,
+body.dark .post-meta a:hover,
+body.dark .i18n_list a:hover {
+    color: #4dd0e1;
 }
 
 /* 系统深色模式兜底 */
 @media (prefers-color-scheme: dark) {
     body:not(.light) .post-content a,
-    body:not(.light) .entry-content a {
+    body:not(.light) .entry-content a,
+    body:not(.light) .post-meta a,
+    body:not(.light) .i18n_list a {
         color: #00acc1;
     }
 }
