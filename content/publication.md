@@ -5,9 +5,11 @@ author = "Cheng Tan"
 date = "2026-01-18"
 +++
 
+<div class="publication-list">
+
 ## Journal Articles
 
-### Selected Publications
+### Selected Papers
 
 1. GENESIS CGDYN: large-scale coarse-grained MD simulation with dynamic load balancing for heterogeneous biomolecular systems.  
 Jaewoon Jung,$^{\star}$ <u>Cheng Tan</u>,$^{\star}$ and Yuji Sugita.  
@@ -113,3 +115,5 @@ _Biophysical Journal_ **102**, 8 (2012): 1944-1951. [<i class="fas fa-link"></i>
 1. 分子シミュレーションで理解する相分離のメカニズム.  
 <u>Cheng Tan</u>, Ai Niitsu, Takao Yoda, and Yuji Sugita.  
 _実験医学別冊 相分離プロトコール_, 発展編5, 235-241. 羊土社 (2022).
+
+</div>

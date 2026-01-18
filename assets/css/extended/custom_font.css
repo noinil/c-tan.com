@@ -1,6 +1,6 @@
 /* 优雅的宋体/衬线体风格 */
 body {
-    /* 本地优先，网络字体兜底 */
+    /* 本地优先，网络字体兜底 - 恢复完整字体栈 */
     font-family: "Georgia", "Times New Roman", "Songti SC", "STSong", "SimSun", "Noto Serif SC", "Source Han Serif SC", "Source Han Serif CN", "Serif", "serif";
     font-weight: 400; 
     line-height: 1.7; 
@@ -16,7 +16,7 @@ code, kbd, pre, samp {
    链接样式定制 (Link Customization)
    ========================================= */
 
-/* 强制去掉下划线，设置青色 (针对正文、摘要和元数据链接) */
+/* 强制去掉下划线，设置青色 */
 .post-content a, 
 .entry-content a,
 .post-meta a,
@@ -42,21 +42,18 @@ code, kbd, pre, samp {
    菜单样式定制 (Menu Customization)
    ========================================= */
 
-/* 移除菜单默认样式 */
 #menu a {
     text-decoration: none !important;
     box-shadow: none !important;
     border-bottom: none !important;
 }
 
-/* 当前激活项的颜色 */
 #menu .active {
     color: #006d6d !important;
     font-weight: bold;
     border-bottom: none !important; 
 }
 
-/* 菜单悬停：仅显示下划线，不改变颜色 */
 #menu a:hover {
     text-decoration: underline !important;
 }
@@ -65,7 +62,6 @@ code, kbd, pre, samp {
    页脚样式定制 (Footer Customization)
    ========================================= */
 
-/* 移除页脚链接下划线，保持原色 */
 .footer a {
     text-decoration: none !important;
     box-shadow: none !important;
@@ -77,14 +73,41 @@ code, kbd, pre, samp {
 }
 
 /* =========================================
+   论文列表专属样式 (Publication List)
+   ========================================= */
+
+/* 1. 增加间距 */
+.publication-list li {
+    margin-bottom: 1.0em;
+    line-height: 1.8;
+}
+
+/* 2. 突出作者 (更低调的方案) */
+.publication-list u {
+    text-decoration: none;
+    font-weight: 700; /* 加粗 */
+    /* 浅色模式：使用深青灰色，不再用背景色 */
+    color: #37474f; 
+}
+
+/* 3. 优化期刊名 */
+.publication-list em {
+    font-style: italic;
+    font-weight: 500;
+    /* 浅色模式：中性蓝灰 */
+    color: #546e7a; 
+}
+
+/* =========================================
    深色模式适配 (Dark Mode)
    ========================================= */
 
+/* 链接深色适配 */
 body.dark .post-content a,
 body.dark .entry-content a,
 body.dark .post-meta a,
 body.dark .i18n_list a {
-    color: #00acc1; /* 深色模式：青色 */
+    color: #00acc1; 
 }
 
 body.dark .post-content a:hover,
@@ -94,9 +117,18 @@ body.dark .i18n_list a:hover {
     color: #4dd0e1;
 }
 
-/* 菜单深色模式激活项 */
+/* 菜单深色适配 */
 body.dark #menu .active {
     color: #00acc1 !important;
+}
+
+/* 论文列表深色适配 */
+body.dark .publication-list u {
+    color: #cfd8dc; /* 亮灰白，稍微带点青调，与黑底区分 */
+}
+
+body.dark .publication-list em {
+    color: #90a4ae; /* 浅蓝灰 */
 }
 
 /* 系统深色模式兜底 */
@@ -109,5 +141,11 @@ body.dark #menu .active {
     }
     body:not(.light) #menu .active {
         color: #00acc1 !important;
+    }
+    body:not(.light) .publication-list u {
+        color: #cfd8dc;
+    }
+    body:not(.light) .publication-list em {
+        color: #90a4ae;
     }
 }
