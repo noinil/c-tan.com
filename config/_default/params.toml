@@ -1,21 +1,16 @@
-# PaperMod Configuration
+# PaperMod Configuration - Params
 
-# General Defaults
+# ==========================================
+# 1. Top-Level Params (Must come first!)
+# ==========================================
+
+# General
 author = "Cheng Tan"
 description = "Website of Cheng Tan"
 keywords = ["Research", "Bioinformatics", "LaTeX"]
-
-# Comments (Disabled)
-comments = false
-
-# Assets
-[assets]
-    favicon = "favicons/favicon-32x32.png"
-    apple_touch_icon = "favicons/apple-touch-icon.png"
-
-# Theme Settings
 defaultTheme = "auto"
 # disableThemeToggle = false
+comments = false
 
 # Feature Flags
 showToc = true
@@ -27,10 +22,19 @@ ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
 ShowWordCount = true
 ShowRssButtonInSectionTermList = true
-UseHugoToc = true
+
+
+# ==========================================
+# 2. Section Tables (Must come after top-level params)
+# ==========================================
+
+# Assets
+[assets]
+    favicon = "favicons/favicon-32x32.png"
+    apple_touch_icon = "favicons/apple-touch-icon.png"
 
 # Profile Mode (Global Defaults)
-# Note: Text content (Title/Subtitle) is overridden in languages.toml
+# Note: Text content is overridden in languages.toml
 [profileMode]
     enabled = true
     imageUrl = "images/profile.png"
@@ -38,7 +42,6 @@ UseHugoToc = true
     imageHeight = 120
     imageTitle = "Cheng Tan"
     
-    # Profile Mode Buttons
     [[profileMode.buttons]]
         name = "Blog"
         url = "post"
