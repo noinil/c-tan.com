@@ -1,19 +1,23 @@
 # PaperMod Configuration
+
+# General Defaults
 author = "Cheng Tan"
+description = "Website of Cheng Tan"
+keywords = ["Research", "Bioinformatics", "LaTeX"]
+
+# Comments (Disabled)
 comments = false
 
+# Assets
 [assets]
     favicon = "favicons/favicon-32x32.png"
     apple_touch_icon = "favicons/apple-touch-icon.png"
 
-description = "Website of Cheng Tan"
-keywords = ["Research", "Bioinformatics", "LaTeX"]
-images = ["images/site-feature-image.png"]
-
-# Default theme: "light", "dark", "auto"
+# Theme Settings
 defaultTheme = "auto"
 # disableThemeToggle = false
 
+# Feature Flags
 showToc = true
 TocOpen = false
 showReadingTime = true
@@ -25,14 +29,16 @@ ShowWordCount = true
 ShowRssButtonInSectionTermList = true
 UseHugoToc = true
 
+# Profile Mode (Global Defaults)
+# Note: Text content (Title/Subtitle) is overridden in languages.toml
 [profileMode]
     enabled = true
-    title = "Cheng Tan (谭丞)"
-    subtitle = "Researcher | Bioinformatics | LaTeX Enthusiast"
     imageUrl = "images/profile.png"
     imageWidth = 120
     imageHeight = 120
     imageTitle = "Cheng Tan"
+    
+    # Profile Mode Buttons
     [[profileMode.buttons]]
         name = "Blog"
         url = "post"
@@ -40,6 +46,7 @@ UseHugoToc = true
         name = "Publications"
         url = "publication"
 
+# Social Icons
 [[socialIcons]]
     name = "twitter"
     url = "https://twitter.com/oinil"
@@ -53,14 +60,6 @@ UseHugoToc = true
     name = "email"
     url = "mailto:ctan@c-tan.com"
 
-
-
-# Analytics
-# [analytics.google]
-#     id = "UA-XXXXX-X"
-
-[markup.goldmark.renderer]
-    unsafe = true # For HTML in Markdown
-
+# Math Support
 [math]
     enable = true

@@ -4,43 +4,43 @@
   weight = 100
   url = "/"
 
-  [[main]]
+[[main]]
   name = "Blog"
   weight = 200
   identifier = "posts"
   url = "/post/"
 
-  [[main]]
+[[main]]
   name = "Archive"
   weight = 250
   identifier = "archives"
   url = "/archives/"
 
-  [[main]]
+[[main]]
   name = "Categories"
   weight = 270
   identifier = "categories"
   url = "/categories/"
 
-  [[main]]
+[[main]]
   name = "Publications"
   weight = 300
   identifier = "publication"
   url = "/publication/"
 
-  [[main]]
+[[main]]
   name = "Presentations"
   weight = 400
   identifier = "presentation"
   url = "/presentation/"
 
-  [[main]]
+[[main]]
   name = "About"
   weight = 500
   identifier = "about"
   url = "/about/"
 
-  [[main]]
+[[main]]
   name = "Search"
   weight = 600
   identifier = "search"

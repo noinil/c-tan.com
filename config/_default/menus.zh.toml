@@ -4,43 +4,43 @@
   weight = 100
   url = "/zh/"
 
-  [[main]]
+[[main]]
   name = "博客"
   weight = 200
   identifier = "posts"
   url = "/zh/post/"
 
-  [[main]]
+[[main]]
   name = "归档"
   weight = 250
   identifier = "archives"
   url = "/zh/archives/"
 
-  [[main]]
+[[main]]
   name = "分类"
   weight = 270
   identifier = "categories"
   url = "/zh/categories/"
 
-  [[main]]
+[[main]]
   name = "论文"
   weight = 300
   identifier = "publication"
   url = "/zh/publication/"
 
-  [[main]]
+[[main]]
   name = "报告"
   weight = 400
   identifier = "presentation"
   url = "/zh/presentation/"
 
-  [[main]]
+[[main]]
   name = "侧写"
   weight = 500
   identifier = "about"
   url = "/zh/about/"
 
-  [[main]]
+[[main]]
   name = "搜索"
   weight = 600
   identifier = "search"

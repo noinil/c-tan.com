@@ -1,27 +1,33 @@
 baseURL = "https://c-tan.com"
+title = "Website of Cheng Tan"
+theme = ["github.com/adityatelange/hugo-PaperMod"]
+
+# Language Settings
 languageCode = "en"
 DefaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
-title = "Website of Cheng Tan"
-theme = ["github.com/adityatelange/hugo-PaperMod"]
-summarylength = 10
+
+# Site Features
 enableEmoji = true
 enableRobotsTXT = true
+summarylength = 10
 
 # Google Analytics
-#googleAnalytics = "UA-123-45"
+# googleAnalytics = "UA-123-45"
 
+# Output Formats
 [outputs]
-    home = ["HTML", "RSS", "JSON"]
+    home = ["HTML", "RSS", "JSON"] # JSON is required for search
 
+# Content Rendering (Markup)
 [markup]
     [markup.goldmark]
         [markup.goldmark.renderer]
-        unsafe = true
+            unsafe = true # Allow HTML in Markdown
 
     [markup.highlight]
+        style = "monokai"
         codeFences = true
         guessSyntax = true
         lineNos = false
-        noClasses = false # 恢复为 PaperMod 推荐的 class 模式
-        style = "monokai"
+        noClasses = false # Use PaperMod's CSS for styling (supports dark/light mode)
