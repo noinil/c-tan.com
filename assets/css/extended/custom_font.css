@@ -1,22 +1,25 @@
-/* 优雅的宋体/衬线体风格 */
+/* =========================================
+   1. 全局排版与字体 (Global Typography)
+   ========================================= */
 body {
-    /* 本地优先，网络字体兜底 - 恢复完整字体栈 */
+    /* 完整字体栈：本地优先，Webfont 兜底 */
     font-family: "Georgia", "Times New Roman", "Songti SC", "STSong", "SimSun", "Noto Serif SC", "Source Han Serif SC", "Source Han Serif CN", "Serif", "serif";
     font-weight: 400; 
     line-height: 1.7; 
     font-size: 17px;  
 }
 
-/* 保持代码块为等宽字体 */
+/* 代码块保持等宽字体 */
 code, kbd, pre, samp {
     font-family: "Menlo", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace;
 }
 
 /* =========================================
-   链接样式定制 (Link Customization)
+   2. 浅色模式 (默认 Default / Light)
+   当 html[data-theme="light"] 或无属性时生效
    ========================================= */
 
-/* 强制去掉下划线，设置青色 */
+/* --- 链接样式 --- */
 .post-content a, 
 .entry-content a,
 .post-meta a,
@@ -24,12 +27,10 @@ code, kbd, pre, samp {
     text-decoration: none !important;
     box-shadow: none !important; 
     border-bottom: none !important; 
-    
-    color: #006d6d; /* 浅色模式：深青色 */
+    color: #006d6d; /* 深青色 */
     transition: color 0.3s ease;
 }
 
-/* 鼠标悬停时 */
 .post-content a:hover,
 .entry-content a:hover,
 .post-meta a:hover,
@@ -38,10 +39,7 @@ code, kbd, pre, samp {
     text-decoration: underline !important; 
 }
 
-/* =========================================
-   菜单样式定制 (Menu Customization)
-   ========================================= */
-
+/* --- 菜单样式 --- */
 #menu a {
     text-decoration: none !important;
     box-shadow: none !important;
@@ -58,10 +56,7 @@ code, kbd, pre, samp {
     text-decoration: underline !important;
 }
 
-/* =========================================
-   页脚样式定制 (Footer Customization)
-   ========================================= */
-
+/* --- 页脚样式 --- */
 .footer a {
     text-decoration: none !important;
     box-shadow: none !important;
@@ -72,80 +67,54 @@ code, kbd, pre, samp {
     text-decoration: underline !important;
 }
 
-/* =========================================
-   论文列表专属样式 (Publication List)
-   ========================================= */
-
-/* 1. 增加间距 */
+/* --- 论文列表 (Publication List) --- */
 .publication-list li {
-    margin-bottom: 1.0em;
+    margin-bottom: 0.8em;
     line-height: 1.8;
 }
 
-/* 2. 突出作者 (更低调的方案) */
 .publication-list u {
     text-decoration: none;
-    font-weight: 700; /* 加粗 */
-    /* 浅色模式：使用深青灰色，不再用背景色 */
-    color: #37474f; 
+    font-weight: 700;
+    color: #37474f; /* 深青灰 */
 }
 
-/* 3. 优化期刊名 */
 .publication-list em {
     font-style: italic;
     font-weight: 500;
-    /* 浅色模式：中性蓝灰 */
-    color: #546e7a; 
+    color: #7a6070; /* 浅色模式：极低饱和度暖灰 */
 }
 
 /* =========================================
-   深色模式适配 (Dark Mode)
+   3. 深色模式 (Dark Mode)
+   当 html[data-theme="dark"] 时生效
    ========================================= */
 
-/* 链接深色适配 */
-body.dark .post-content a,
-body.dark .entry-content a,
-body.dark .post-meta a,
-body.dark .i18n_list a {
-    color: #00acc1; 
+/* 链接变亮 */
+[data-theme="dark"] .post-content a,
+[data-theme="dark"] .entry-content a,
+[data-theme="dark"] .post-meta a,
+[data-theme="dark"] .i18n_list a {
+    color: #00acc1; /* 亮青色 */
 }
 
-body.dark .post-content a:hover,
-body.dark .entry-content a:hover,
-body.dark .post-meta a:hover,
-body.dark .i18n_list a:hover {
+[data-theme="dark"] .post-content a:hover,
+[data-theme="dark"] .entry-content a:hover,
+[data-theme="dark"] .post-meta a:hover,
+[data-theme="dark"] .i18n_list a:hover {
     color: #4dd0e1;
 }
 
-/* 菜单深色适配 */
-body.dark #menu .active {
+/* 菜单激活项变亮 */
+[data-theme="dark"] #menu .active {
     color: #00acc1 !important;
 }
 
-/* 论文列表深色适配 */
-body.dark .publication-list u {
-    color: #cfd8dc; /* 亮灰白，稍微带点青调，与黑底区分 */
+/* 论文列表文字适配 */
+[data-theme="dark"] .publication-list u {
+    color: #cfd8dc; /* 亮灰白 */
 }
 
-body.dark .publication-list em {
-    color: #90a4ae; /* 浅蓝灰 */
-}
-
-/* 系统深色模式兜底 */
-@media (prefers-color-scheme: dark) {
-    body:not(.light) .post-content a,
-    body:not(.light) .entry-content a,
-    body:not(.light) .post-meta a,
-    body:not(.light) .i18n_list a {
-        color: #00acc1;
-    }
-    body:not(.light) #menu .active {
-        color: #00acc1 !important;
-    }
-    body:not(.light) .publication-list u {
-        color: #cfd8dc;
-    }
-    body:not(.light) .publication-list em {
-        color: #90a4ae;
-    }
+[data-theme="dark"] .publication-list em {
+    color: #b0af9a; /* 深色模式：灰白色 (微暖) */
 }
