@@ -1,6 +1,7 @@
 /* 优雅的宋体/衬线体风格 */
 body {
-    font-family: "Georgia", "Times New Roman", "Songti SC", "SimSun", "Source Han Serif SC", "Source Han Serif CN", "Noto Serif SC", "Serif", "serif";
+    /* 本地优先，网络字体兜底 */
+    font-family: "Georgia", "Times New Roman", "Songti SC", "STSong", "SimSun", "Noto Serif SC", "Source Han Serif SC", "Source Han Serif CN", "Serif", "serif";
     font-weight: 400; 
     line-height: 1.7; 
     font-size: 17px;  
