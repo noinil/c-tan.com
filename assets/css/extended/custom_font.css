@@ -41,7 +41,7 @@ code, kbd, pre, samp {
    菜单样式定制 (Menu Customization)
    ========================================= */
 
-/* 移除菜单下划线，设置青色 (使用 ID 选择器 #menu) */
+/* 移除菜单默认样式 */
 #menu a {
     text-decoration: none !important;
     box-shadow: none !important;
@@ -55,9 +55,24 @@ code, kbd, pre, samp {
     border-bottom: none !important; 
 }
 
-/* 菜单悬停颜色 */
+/* 菜单悬停：仅显示下划线，不改变颜色 */
 #menu a:hover {
-    color: #004d40 !important;
+    text-decoration: underline !important;
+}
+
+/* =========================================
+   页脚样式定制 (Footer Customization)
+   ========================================= */
+
+/* 移除页脚链接下划线，保持原色 */
+.footer a {
+    text-decoration: none !important;
+    box-shadow: none !important;
+    border-bottom: none !important;
+}
+
+.footer a:hover {
+    text-decoration: underline !important;
 }
 
 /* =========================================
@@ -78,13 +93,9 @@ body.dark .i18n_list a:hover {
     color: #4dd0e1;
 }
 
-/* 菜单深色模式 */
+/* 菜单深色模式激活项 */
 body.dark #menu .active {
     color: #00acc1 !important;
-}
-
-body.dark #menu a:hover {
-    color: #80deea !important; /* 调整为更浅、更亮的青色 */
 }
 
 /* 系统深色模式兜底 */
@@ -97,8 +108,5 @@ body.dark #menu a:hover {
     }
     body:not(.light) #menu .active {
         color: #00acc1 !important;
-    }
-    body:not(.light) #menu a:hover {
-        color: #80deea !important;
     }
 }
