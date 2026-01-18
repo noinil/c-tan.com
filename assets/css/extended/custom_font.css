@@ -38,6 +38,29 @@ code, kbd, pre, samp {
 }
 
 /* =========================================
+   菜单样式定制 (Menu Customization)
+   ========================================= */
+
+/* 移除菜单下划线，设置青色 (使用 ID 选择器 #menu) */
+#menu a {
+    text-decoration: none !important;
+    box-shadow: none !important;
+    border-bottom: none !important;
+}
+
+/* 当前激活项的颜色 */
+#menu .active {
+    color: #006d6d !important;
+    font-weight: bold;
+    border-bottom: none !important; 
+}
+
+/* 菜单悬停颜色 */
+#menu a:hover {
+    color: #004d40 !important;
+}
+
+/* =========================================
    深色模式适配 (Dark Mode)
    ========================================= */
 
@@ -55,6 +78,15 @@ body.dark .i18n_list a:hover {
     color: #4dd0e1;
 }
 
+/* 菜单深色模式 */
+body.dark #menu .active {
+    color: #00acc1 !important;
+}
+
+body.dark #menu a:hover {
+    color: #80deea !important; /* 调整为更浅、更亮的青色 */
+}
+
 /* 系统深色模式兜底 */
 @media (prefers-color-scheme: dark) {
     body:not(.light) .post-content a,
@@ -62,5 +94,11 @@ body.dark .i18n_list a:hover {
     body:not(.light) .post-meta a,
     body:not(.light) .i18n_list a {
         color: #00acc1;
+    }
+    body:not(.light) #menu .active {
+        color: #00acc1 !important;
+    }
+    body:not(.light) #menu a:hover {
+        color: #80deea !important;
     }
 }
