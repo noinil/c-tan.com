@@ -39,8 +39,8 @@ ShowRssButtonInSectionTermList = true
 [profileMode]
     enabled = true
     imageUrl = "images/profile.png"
-    imageWidth = 120
-    imageHeight = 120
+    imageWidth = 240
+    imageHeight = 240
     imageTitle = "Cheng Tan"
     
     [[profileMode.buttons]]
