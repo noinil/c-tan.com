@@ -85,6 +85,19 @@ code, kbd, pre, samp {
     color: #7a6070; /* 浅色模式：极低饱和度暖灰 */
 }
 
+/* --- 发表列表 (Presentation List) --- */
+.presentation-list li {
+    margin-bottom: 0.8em;
+    line-height: 1.8;
+}
+
+.presentation-list em {
+    font-style: normal;
+    font-weight: 500;
+    color: #7a6070; /* 浅色模式：极低饱和度暖灰 */
+}
+
+
 /* =========================================
    3. 深色模式 (Dark Mode)
    当 html[data-theme="dark"] 时生效
@@ -116,5 +129,10 @@ code, kbd, pre, samp {
 }
 
 [data-theme="dark"] .publication-list em {
+    color: #b0af9a; /* 深色模式：灰白色 (微暖) */
+}
+
+/* 发表列表文字适配 */
+[data-theme="dark"] .presentation-list em {
     color: #b0af9a; /* 深色模式：灰白色 (微暖) */
 }

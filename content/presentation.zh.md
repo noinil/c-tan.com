@@ -5,6 +5,8 @@ author = "谭丞"
 date = "2026-01-19"
 +++
 
+<div class="presentation-list">
+
 ## 邀请报告
 
 - <i class="fas fa-comment"></i> Modulation of Structure and Dynamics in Biomolecular Condensates Revealed by Large-Scale Molecular Dynamics Simulations.  
@@ -171,4 +173,4 @@ _第 54 回 日本生物物理学会年会_, 筑波, 日本
 _第 3 回 软分子体系研讨会_, 东京, 日本  
 2015 年 7 月 11 日
 
-
+</div>
