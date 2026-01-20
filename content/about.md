@@ -6,7 +6,7 @@ aliases = ["contact"]
 author = "Cheng Tan"
 +++
 
-I joined the [Computational Biophysics Research Team at RIKEN Center for Computational Science](http://www2.riken.jp/TMS2012/cbp/en/index.html) in May 2019, where I currently work. One of my primary responsibilities is to develop code for molecular dynamics software [GENESIS](https://www.r-ccs.riken.jp/labs/cbrt/) (and [CafeMol](http://www.cafemol.org) in my last job). My research interests in computational biophysics are:
+I joined the [Computational Biophysics Research Team at RIKEN Center for Computational Science](http://www2.riken.jp/TMS2012/cbp/en/index.html) in May 2019, where I currently work. One of my primary responsibilities is to develop code for molecular dynamics software [GENESIS](https://mdgenesis.org/) (and [CafeMol](http://www.cafemol.org) in my last job). My research interests in computational biophysics are:
 - Modeling biomolecules in molecular dynamics simulations,
 - Biomolecular condensation via liquid-liquid phase separation,
 - Functional conformational changes of protein and DNA,
