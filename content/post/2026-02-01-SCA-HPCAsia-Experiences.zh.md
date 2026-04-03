@@ -1,7 +1,7 @@
 +++ 
 title = "SCA/HPCAsia 初体验"
 description = "超算会议果然与学术会议体验迥然。"
-date = "2024-04-30T23:00:00"
+date = "2026-02-01T23:00:00"
 categories = ["technique"]
 tags = ["HPC", "OpenACC"]
 
