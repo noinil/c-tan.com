@@ -5,7 +5,7 @@ date = "2024-04-30T23:00:00"
 categories = ["molart"]
 tags = ["GENESIS", "blender"]
 
-slug = "genesis-cover-image-2022"
+slug = "genesis-cover-image-2024"
 summary = "Several magazine cover designs created using tools like Blender."
 +++ 
 

@@ -5,7 +5,7 @@ date = "2024-04-30T23:00:00"
 categories = ["molart"]
 tags = ["GENESIS", "blender"]
 
-slug = "genesis-cover-image-2022"
+slug = "genesis-cover-image-2024"
 summary = "利用 Blender 等工具给文章设计的几个杂志封面图。"
 +++ 
 
