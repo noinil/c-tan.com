@@ -77,6 +77,10 @@ Wed, Sep 23, 2015
 
 ## Poster Presentations
 
+- <i class="fas fa-image"></i> Atomistic Mechanism of TDP-43 Condensate Regulated by Highly-Charged Proteins.  
+_BPS 2026_, San Francisco, USA  
+Sun, Feb 22, 2026
+
 - <i class="fas fa-image"></i> Large-Scale Coarse-Grained Molecular Dynamics Simulations of Biomolecular Condensation.  
 _The 12th HPCI System Research Project Report Meeting_, Tokyo, Japan  
 Fri, Oct 24, 2025

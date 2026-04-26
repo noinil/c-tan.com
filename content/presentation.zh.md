@@ -77,6 +77,10 @@ _第 53 回 日本生物物理学会年会_, 金泽, 日本
 
 ## 海报发表
 
+- <i class="fas fa-image"></i> Atomistic Mechanism of TDP-43 Condensate Regulated by Highly-Charged Proteins.  
+_BPS 2026_, 旧金山, 米国  
+2026 年 2 月 22 日
+
 - <i class="fas fa-image"></i> Large-Scale Coarse-Grained Molecular Dynamics Simulations of Biomolecular Condensation.  
 _第 12 回 HPCI 成果報告会_, 东京, 日本  
 2025 年 10 月 24 日

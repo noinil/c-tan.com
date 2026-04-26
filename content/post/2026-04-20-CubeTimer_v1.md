@@ -3,7 +3,7 @@ title = "I Built My Own Cube Timer"
 description = "Existing apps weren't smooth enough, so I built my own cube timer with a little help from AI."
 date = "2026-04-20T01:00:00"
 categories = ["speedsolving"]
-tags = ["AI", "cube"]
+tags = ["AI", "cube", "vibe-coding"]
 
 slug = "CubeTimer-v1.2.1"
 summary = "I finally decided to create the timer I always wanted. Thanks to AI finally catching up to my needs in 2026, CubeTimer is here with high-precision 3D rendering and a clean, industrial design. Here is how a long-time enthusiast saved himself from bad software."

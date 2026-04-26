@@ -3,7 +3,7 @@ title = "从零构建一个专业级的 3D 魔方计时器 (CubeTimer v1.2.1)"
 description = "我只好在 AI 的帮助下自己写了一个魔方计时软件。"
 date = "2026-04-20T01:00:00"
 categories = ["speedsolving"]
-tags = ["AI", "cube"]
+tags = ["AI", "cube", "vibe-coding"]
 
 slug = "CubeTimer-v1.2.1"
 summary = "借着 2026 年 AI 的‘微小’进步， 我实现了一个高颜值、 全 3D 预览的计时工具。  来看看这篇‘古早’玩家的自救指南。  如果早 20 年拥有这样的计时器， 我也许可以在魔方水平上更进一步吧。"
