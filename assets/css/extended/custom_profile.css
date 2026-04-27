@@ -1,0 +1,13 @@
+/* =========================================
+   Home Page Profile Image Switcher
+   ========================================= */
+
+/* 默认（浅色模式）使用的 Logo */
+.profile_inner img {
+    content: url("/images/profile-light.png");
+}
+
+/* 深色模式下切换回原有的亮青色边框 Logo */
+[data-theme="dark"] .profile_inner img {
+    content: url("/images/profile.png");
+}
