@@ -55,6 +55,9 @@ ShowRssButtonInSectionTermList = true
     name = "twitter"
     url = "https://twitter.com/oinil"
 [[socialIcons]]
+    name = "telegram"
+    url = "https://t.me/mola_mola_molecule"
+[[socialIcons]]
     name = "github"
     url = "https://github.com/noinil"
 [[socialIcons]]
